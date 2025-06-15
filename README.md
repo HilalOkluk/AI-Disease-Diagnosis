@@ -1,29 +1,28 @@
 
-# 🧠 AI Disease Diagnosis System
+# 🧠 Yapay Zekâ Destekli Hastalık Teşhis Sistemi
 
-This project is an AI-powered web application for disease prediction based on user-entered symptoms. Built using Python, Streamlit, and a trained machine learning model, the system provides fast and accurate disease diagnosis suggestions.
+Bu proje, kullanıcı tarafından girilen semptomlara dayanarak hastalık tahmini yapan yapay zekâ destekli bir web uygulamasıdır. Python, Streamlit ve eğitilmiş bir makine öğrenmesi modeli kullanılarak geliştirilmiştir. Sistem hızlı ve doğru teşhis önerileri sunar.
 
-## 🚀 Live Demo
+## 🚀 Canlı Uygulama
 
-🔗 [Click here to access the live version](https://your-live-link.com)  
-> Replace this with your actual deployed app link.
+🔗 [Canlı Uygulamayı Görüntüle](https://4dscxhwqqq8nlqlrgaux53.streamlit.app/)
 
-## 💻 Technologies Used
+## 💻 Kullanılan Teknolojiler
 
 - Python 🐍  
 - Streamlit 📊  
 - Pandas & Scikit-learn 🧪  
-- Machine Learning (Multiclass Classifier)  
-- Pickle (for model serialization)  
+- Makine Öğrenmesi (Çok sınıflı sınıflandırma)  
+- Pickle (Model kaydetme ve yükleme)  
 
-## 🧬 Features
+## 🧬 Özellikler
 
-- Input symptoms via user interface  
-- Predict likely disease from trained ML model  
-- Clean and user-friendly design  
-- Deployed and accessible via web  
+- Kullanıcı arayüzü üzerinden semptom girişi  
+- Eğitilmiş model ile hastalık tahmini  
+- Temiz ve kullanıcı dostu tasarım  
+- Web üzerinden erişilebilirlik  
 
-## 📦 Installation (For Local Use)
+## 📦 Kurulum (Yerel Kullanım İçin)
 
 ```bash
 git clone https://github.com/HilalOkluk/AI-Disease-Diagnosis.git
@@ -32,21 +31,21 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📁 File Structure
+## 📁 Dosya Yapısı
 
-- `app.py` – Streamlit-based UI and logic  
-- `model.pkl` – Trained machine learning model  
-- `symptom_list.pkl` – List of symptoms used for prediction  
-- `label_encoder.pkl` – Encoder for disease labels  
+- `app.py` – Streamlit tabanlı kullanıcı arayüzü ve tahmin mantığı  
+- `model.pkl` – Eğitilmiş makine öğrenmesi modeli  
+- `symptom_list.pkl` – Kullanılabilir semptom listesi  
+- `label_encoder.pkl` – Hastalık isimlerini kodlayan etiketleyici  
 
-## 🧠 Model Info
+## 🧠 Model Bilgisi
 
-The machine learning model is trained using a labeled symptom-disease dataset. It uses techniques like Label Encoding and classification algorithms (e.g., Random Forest or similar) to predict the most probable disease.
+Makine öğrenmesi modeli, semptom-hastalık etiketli bir veri kümesi ile eğitilmiştir. Etiket kodlama ve sınıflandırma algoritmaları (örneğin Random Forest) kullanılarak en olası hastalık tahmini yapılır.
 
-## 📬 Contact
+## 📬 İletişim
 
-Created by [Hilal Okluk](https://github.com/HilalOkluk) – feel free to reach out!
+Geliştirici: [Hilal Okluk](https://github.com/HilalOkluk)
 
 ---
 
-🛡️ **Note:** This application is for educational purposes only and should not be used for real medical diagnosis.
+🛡️ **Not:** Bu uygulama yalnızca eğitim amaçlıdır ve gerçek tıbbi teşhis yerine geçmez.

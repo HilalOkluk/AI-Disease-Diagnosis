@@ -6,8 +6,12 @@ import pandas as pd
 from collections import defaultdict
 
 # Model ve bilgiler yükleniyor
-with open("model.pkl", "rb") as file:
+import os
+
+model_path = os.path.join(os.path.dirname(__file__), 'model.pkl')
+with open(model_path, 'rb') as file:
     model, all_symptoms, label_encoder = pickle.load(file)
+
 
 # CSV'den semptom-hastalık eşleşmelerini çıkar (JSON yerine)
 df = pd.read_csv(r"teshis_ornek_arttirilmis_cleaned.csv")  # 👈 dosya yolu uyarlanmalı

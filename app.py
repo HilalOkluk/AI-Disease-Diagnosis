@@ -10,7 +10,7 @@ with open("model.pkl", "rb") as file:
     model, all_symptoms, label_encoder = pickle.load(file)
 
 # CSV'den semptom-hastalık eşleşmelerini çıkar (JSON yerine)
-df = pd.read_csv(r"\teshis_ornek_arttirilmis_cleaned.csv")  # 👈 dosya yolu uyarlanmalı
+df = pd.read_csv(r"teshis_ornek_arttirilmis_cleaned.csv")  # 👈 dosya yolu uyarlanmalı
 symptom_cols = df.columns[1:]
 
 disease_symptom_map = defaultdict(set)
@@ -21,7 +21,7 @@ for _, row in df.iterrows():
             disease_symptom_map[disease].add(symptom)
 
 # JSON'dan açıklama, öneri ve uzmanlık bilgileri al
-json_path = r"\hastalk_acklama.json"
+json_path = r"hastalk_acklama.json"
 with open(json_path, "r", encoding="utf-8") as f:
     disease_info = json.load(f)
 

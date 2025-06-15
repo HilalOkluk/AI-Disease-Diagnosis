@@ -1,0 +1,2583 @@
+[
+    {
+        "Disease": "GERD",
+        "Doctor": "Gastroenterolog",
+        "Description": "Gastroözofageal reflü hastalığı veya GERD, yemek borusu ile mide arasındaki kas halkası olan alt özofagus sfinkterini (LES) etkileyen bir sindirim bozukluğudur. Hamile kadınlar da dahil olmak üzere pek çok kişi, GERD'nin neden olduğu mide yanması veya asit hazımsızlığından muzdariptir.",
+        "Suggestions": [
+            "yağlı baharatlı yiyeceklerden kaçının",
+            "egzersiz yapın",
+            "sağlıklı kilonuzu koruyun"
+        ]
+    },
+    {
+        "Disease": "Diyabet",
+        "Doctor": "Aile Hekimi",
+        "Description": "Diyabet, kan şekeri olarak da adlandırılan kan şekerinizin çok yüksek olması durumunda ortaya çıkan bir hastalıktır. Kan şekeri ana enerji kaynağınızdır ve yediğiniz yiyeceklerden gelir. Pankreas tarafından üretilen bir hormon olan insülin, yiyeceklerdeki glikozun enerji için kullanılmak üzere hücrelerinize girmesine yardımcı olur.",
+        "Suggestions": [
+            "egzersiz yapın",
+            "dengeli beslenmek",
+            "kan şekerinizi izleyin"
+        ]
+    },
+    {
+        "Disease": "Mantar Enfeksiyonu",
+        "Doctor": "Dermatolog",
+        "Description": "İnsanlarda mantar enfeksiyonları, istilacı bir mantar vücudun bir alanını ele geçirdiğinde ve bağışıklık sisteminin başa çıkamayacağı kadar fazla olduğunda ortaya çıkar. Mantarlar havada, toprakta, suda ve bitkilerde yaşayabilir. Bazı mantarlar insan vücudunda doğal olarak yaşar. Birçok mikrop gibi yararlı mantarlar ve zararlı mantarlar vardır.",
+        "Suggestions": [
+            "iki kez banyo yapın",
+            "temiz çamaşırlar giyin",
+            "enfekte bölgeyi kuru tutun"
+        ]
+    },
+    {
+        "Disease": "Alerji",
+        "Doctor": "Dermatolog",
+        "Description": "Alerji; yabancı bir maddeye yahut pek çok insanda herhangi bir reaksiyona sebep olmayan bir besine karşı, bağışıklık sisteminin vermiş olduğu aşırı tepkiler olarak tanımlanır. Normal koşullarda bağışıklık sistemi, zararlı nesneleri vücuttan uzak tutmak adına savunma fonksiyonunu devreye sokarak bu nesnelere karşı antikor üretir. Ancak alerjisi olan kişilerde bağışıklık sistemi, herhangi bir alerjeni zararlı olmasa dahi zararlı olarak algılayan antikorlar üretir. Bundan dolayı bir alerjen ile temas eden kişinin bağışıklık sistemi reaksiyon gösterir. Bu reaksiyon sonucunda bireyin sinüsleri, cildi, hava yolları veya sindirim sistemi kızararak şişebilir. Reaksiyonlardan ötürü gelişen alerjilerin şiddeti ise kişiden kişiye değişebilir.",
+        "Suggestions": [
+            "kaşıntıyı azaltmak için buz kullanın",
+            "el ve burun temizliğine dikkat edin",
+            "ortamı düzenli olarak havalandırın"
+        ]
+    },
+    {
+        "Disease": "Kronik Kolestaz",
+        "Doctor": "Hepatolog",
+        "Description": "Kronik kolestatik hastalıklar, ister bebeklik, çocukluk ister yetişkinlik döneminde ortaya çıksın, çoğu durumda safra epitelindeki birincil hasarın neden olduğu, safra asidinin karaciğerden bağırsağa taşınmasındaki kusurla karakterize edilir.",
+        "Suggestions": [
+            "soğuk duş alın",
+            "sağlıklı beslenin",
+            "doktora görünün"
+        ]
+    },
+    {
+        "Disease": "Peptik Ülser Hastalığı",
+        "Doctor": "Gastroenterolog",
+        "Description": "Peptik ülser mide, ince bağırsak veya yemek borusunun iç yüzeyinin mide asidi tarafından tahrip edilmesi sonucu meydana gelen açık yaralardır. Ülserlerin en yaygın nedeni olarak midede  helicobacter pylori (H pylori) adı verilen bakteriler tarafından meydana gelen enfeksiyonlardır.",
+        "Suggestions": [
+            "kahve ve çay tüketimini minimalize edin",
+            "aşırı yağlı yiyeceklerden uzak durmaya özen gösterin",
+            "bol bol su tüketin"
+        ]
+    },
+    {
+        "Disease": "AIDS",
+        "Doctor": "Ürolog / Jinekolog",
+        "Description": "AIDS; HIV adı verilen bir virüsün bulaşması sonucu, oldukça ciddi sağlık problemlerine yol açan ve tedavisi ile tamamen yok olmayan bir hastalıktır. Aids, çok tehlikeli ve bir o kadar da bulaşıcı olan cinsel yolla bulaşan hastalıklar arasındadır. Aids; edinsel bağışıklık yetmezliği sendromu olarak tanımlanmaktadır ve kronik bir hastalıktır. Aids’in ortaya çıkmasında etkili faktör olan Hiv virüsü bulaştığı anda direkt bağışıklık sistemini vurmakta ve çökertmektedir. Aids; kendini hemen belli eden bir hastalık değildir ve kişiler tarafından varlığının fark edilmesi biraz zordur. Aids’in pek çok belirtisi vardır ve mutlaka bu belirtilerin çoğunun görülmesi halinde alanında uzman bir doktora gidilmeli, gerekli testler yaptırılmalıdır. ",
+        "Suggestions": [
+            "doktora görünün",
+            "ilişkilerde korunun"
+        ]
+    },
+    {
+        "Disease": "Gastroenterit",
+        "Doctor": "Gastroenterolog",
+        "Description": "Gastroenterit, ishal ve kusmaya neden olan çok yaygın bir sağlık sorunu olarak bilinir. Genellikle bakteriyel veya viral sebeplerden kaynaklanan bu sorun, her yaştan insanı etkileyebilir. Özellikle küçük çocuklarda sık görülen ve halk arasında genel olarak mide ve bağırsak üşütmesi ya da bağırsak bozulması gibi durumlar için kullanılan gastroenterit, sulu ishal ve kramp tarzında gelişen karın ağrısıyla kendini belli ederek bulantı, kusma ve ateşe neden olur.",
+        "Suggestions": [
+            "bir süre katı yiyecek yemeyi bırakın",
+            "dinlenin",
+            "küçük yudumlar su içmeyi deneyin"
+        ]
+    },
+    {
+        "Disease": "Bronşiyal Astım",
+        "Doctor": "Pulmonolog",
+        "Description": "Astımla birlikte hava yollarının daralması bir süre sonra bronşları tahriş edip hassaslaştırabilir. Bronşiyal astım, bu hassasiyete bağlı olarak bronşların, dışarıdan gelen tetikleyicilere aşırı tepki vermesi durumudur.",
+        "Suggestions": [
+            "derin nefesler alın",
+            "doktora görünün",
+            "kokulara ve dumanlara maruz kalmaktan kaçının"
+        ]
+    },
+    {
+        "Disease": "Hipertansiyon",
+        "Doctor": "Kardiyolog",
+        "Description": "Hipertansiyon, kalpten vücuda taşınan kanın atardamar duvarlarına uyguladığı kuvvetin, kalp hastalığı gibi sağlık sorunlarına neden olabilecek kadar yüksek olduğu yaygın bir tıbbi duruma verilen isimdir. Hipertansiyon aynı zamanda yüksek tansiyon adıyla da bilinir. Normal şartlar altında tansiyon, yani damar çeperlerine uygulanan kan basıncı, hem bireyin kalbinin pompaladığı kan miktarına hem de atardamarlar veya toplardamarlardaki kan akışına karşı gösterilen direnç miktarına göre belirlenir. Kalp atarken ölçülen tansiyon değerine sistolik, kalp yumuşadığında ölçülen tansiyon değerine ise diyastolik adı verilir. Bireyler hiçbir belirti göstermeden uzun yıllar boyunca hipertansiyona sahip olabilir. Herhangi bir semptom olmasa bile, hipertansiyon kan damarlarında ve kalpte tespit edilebilir hasar oluşturmaya devam eder. Kontrolsüz hipertansiyon, kalp krizi ve felç gibi ciddi sağlık sorunlarının ortaya çıkma riskini artırır.",
+        "Suggestions": [
+            "belirli aralıklarla doktorunuzu ziyaret edin",
+            "stres yönetimi sağlayın",
+            "alkol ve sigaradan uzak durun",
+            "kilonuza dikkat edin",
+            "tuzu azaltın ve sağlıklı beslenin"
+        ]
+    },
+    {
+        "Disease": "Migren",
+        "Doctor": "Nörolog",
+        "Description": "Migren, beyindeki sinirler ve kan damarlarında oluşan değişiklikler sonucu ortaya çıkan bir baş ağrısı tipidir. Migrenli bireylerde ataklara duyarlı olan bir sinir sistemi mevcuttur ve ataklar, dış çevredeki bazı faktörler ile tetiklenebilir. Bir atak tetiklendiğinde beyindeki migren oluşturucusu denen yer harekete geçer. Bu durum beyindeki kan damarlarının genişlemesine ve sinirlerin inflamasyonuna yol açar. Daha sonra bunlar, atak sırasındaki ağrı ve diğer belirtilere neden olacak olan beyinde yer alan trigeminal sinirin aktive olmasına sebep olur ve migren oluşur.",
+        "Suggestions": [
+            "alkol ve sigaradan uzak durun",
+            "stres yönetimi sağlayın",
+            "uykunuza dikkat edin",
+            "yemek yeme düzeninize dikkat edin"
+        ]
+    },
+    {
+        "Disease": "Servikal Spondiloz",
+        "Doctor": "Romatolog",
+        "Description": "Servikal spondiloz yaşa bağlı olarak tekrarlayan minör travmalar sonucu boyundaki eklemlerin etkilendiği, genellikle 40 yaşını geçmiş insanlarda görülen ve yaşla birlikte progresyon gösteren, servikal osteoartrit olarak da bilinen bir hastalıktır. Özellikle servikal (boyun) omurlarının en hareketli olduğu bölgelerde ( C4-C5, C5-C6, C6-C7 ) görülür.",
+        "Suggestions": [
+            "egzersiz yapın",
+            "doktorunuza başvurun"
+        ]
+    },
+    {
+        "Disease": "Felç (beyin kanaması)",
+        "Doctor": "Nörolog",
+        "Description": "Beyin kanaması, beyin dokusu içerisinde meydana gelerek hasara neden olur. Bu durum da yaşamı tehdit edebilmektedir. Beyin kanaması belirtileri baş ağrısı, kusma, mide bulantısı, halsizlik ve daha ileri seviyede felç olarak kendini gösterir. Beyinde bir arterin patlaması ve dokularda lokal kanama nedeniyle oluşur. Bu kanama beyin hücrelerinin ölmesine neden olabilir.",
+        "Suggestions": [
+            "doktorunuza acil başvurun"
+        ]
+    },
+    {
+        "Disease": "Sarılık",
+        "Doctor": "Gastroenterolog / Dahiliye",
+        "Description": "Sarılık, vücutta bilirubin adı verilen bir pigmentin aşırı birikmesi sonucu cilt, gözler ve mukoz membranlarda sararma ile karakterizedir. Bilirubin, kırmızı kan hücrelerinin parçalanmasıyla ortaya çıkan bir maddedir. Sarılık genellikle karaciğer sorunları, safra yolu tıkanıklığı veya kan hücrelerinin aşırı parçalanması gibi durumlarla ilişkilidir.",
+        "Suggestions": [
+            "doktorunuza acil başvurun",
+            "karaciğer fonksiyon testleri yaptırın",
+            "diyetinizi doktorunuzun tavsiyelerine göre düzenleyin"
+        ]
+    },
+    {
+        "Disease": "Sıtma",
+        "Doctor": "Enfeksiyon Hastalıkları / Dahiliye",
+        "Description": "Sıtma, plasmodium adı verilen parazitler tarafından neden olan bir enfeksiyondur. Bu parazitler, anopheles sivrisineği tarafından insanlara bulaştırılır. Sıtma belirtileri ateş, titreme, terleme, baş ağrısı ve kas ağrılarını içerebilir. Tedavi edilmezse, sıtma ciddi komplikasyonlara yol açabilir ve ölümcül olabilir.",
+        "Suggestions": [
+            "doktorunuza acil başvurun",
+            "sıtma bulaşma riskini azaltmak için sivrisinek ısırıklarından korunmaya özen gösterin"
+        ]
+    },
+    {
+        "Disease": "İlaç Reaksiyonu",
+        "Doctor": "Dahiliye / Acil Tıp",
+        "Description": "İlaç reaksiyonu, bir kişinin bir ilaca karşı anormal bir tepki göstermesidir. Bu tepki, ilacın yan etkilerinden kaynaklanabilir veya ilaca karşı alerjik bir reaksiyon olabilir. İlaç reaksiyonları hafiften şiddetliye kadar değişebilir ve deri döküntüleri, kaşıntı, nefes darlığı, yüzde şişme gibi belirtilerle kendini gösterebilir. Ciddi durumlarda, anafilaksi gibi hayati tehlike oluşturan durumlar ortaya çıkabilir.",
+        "Suggestions": [
+            "Doktorunuza acil başvurun, ilaç reaksiyonunu detaylı bir şekilde açıklayın ve daha önce kullanılan ilaçları belirtin.",
+            "İlacı kullanmaktan kaçının."
+        ]
+    },
+    {
+        "Disease": "Suçiçeği",
+        "Doctor": "Çocuk Sağlığı ve Hastalıkları / Dermatolog",
+        "Description": "Suçiçeği, varicella-zoster virüsü tarafından neden olan bir enfeksiyon hastalığıdır. Suçiçeği genellikle kızamık gibi bulaşıcı bir döküntüye neden olur. Belirtileri arasında ateş, baş ağrısı, halsizlik ve vücutta kabarcıklarla karakterize bir döküntü bulunur. Suçiçeği genellikle çocuklarda görülse de yetişkinleri de etkileyebilir. Suçiçeği genellikle zamanla iyileşir, ancak bazı durumlarda komplikasyonlara neden olabilir.",
+        "Suggestions": [
+            "Hastalık süresince enfekte kişiden uzak durun ve teması sınırlayın.",
+            "Önerilen semptom yönetimi tedavilerini uygulayın ve kaşıntıyı hafifletmek için önerilen losyonları kullanın."
+        ]
+    },
+    {
+        "Disease": "Dang Humması",
+        "Doctor": "Enfeksiyon Hastalıkları / Genel Cerrahi",
+        "Description": "Dang humması, Aedes sivrisineği tarafından taşınan dengue virüsü nedeniyle oluşan bir viral enfeksiyondur. Hastalığın belirtileri arasında yüksek ateş, şiddetli baş ağrısı, kas ve eklem ağrıları, deride döküntü ve kanama eğilimi bulunabilir. Dang humması ciddi bir hastalık olabilir ve tedavi edilmezse hayati tehlike yaratabilir.",
+        "Suggestions": [
+            "Ateş, ağrı ve diğer belirtileri yönetmek için doktorunuzun önerdiği ilaçları kullanın.",
+            "Hidrasyonunuzu koruyun ve dinlenmeye özen gösterin."
+        ]
+    },
+    {
+        "Disease": "Tifo",
+        "Doctor": "Enfeksiyon Hastalıkları / Dahiliye",
+        "Description": "Tifo, Salmonella typhi bakterisinin neden olduğu bir bakteriyel enfeksiyondur. Bu bakteri genellikle kontamine su veya gıda yoluyla bulaşır. Tifo belirtileri arasında yüksek ateş, baş ağrısı, karın ağrısı, genel halsizlik ve bazen deride döküntü bulunabilir. Tedavi edilmezse, tifo ciddi komplikasyonlara yol açabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği antibiyotik tedavisini düzenli olarak uygulayın.",
+            "Hidrasyonunuzu sağlayın ve dinlenmeye özen gösterin."
+        ]
+    },
+    {
+        "Disease": "Hepatit A",
+        "Doctor": "Gastroenterolog / Dahiliye",
+        "Description": "Hepatit A, hepatit A virüsü (HAV) nedeniyle oluşan bir enfeksiyon hastalığıdır. Genellikle kontamine su veya gıda tüketimi yoluyla bulaşır. Belirtileri arasında sarılık, karın ağrısı, iştah kaybı, halsizlik ve ateş bulunabilir. Hepatit A genellikle iyileşebilir bir durumdur, ancak bazen ciddi olabilir.",
+        "Suggestions": [
+            "Hepatit A aşısı ile korunma yöntemlerini değerlendirin.",
+            "Hastalık süresince hijyen kurallarına dikkat edin ve teması sınırlayın."
+        ]
+    },
+    {
+        "Disease": "Hepatit B",
+        "Doctor": "Gastroenterolog / Dahiliye",
+        "Description": "Hepatit B, hepatit B virüsü (HBV) tarafından neden olan bir karaciğer enfeksiyonudur. Cinsel temas, kan teması veya anneden bebeğe geçiş yoluyla bulaşabilir. Kronikleşebilen bir hastalıktır. Belirtileri arasında sarılık, karın ağrısı, halsizlik ve iştah kaybı bulunabilir.",
+        "Suggestions": [
+            "Hepatit B aşısı ile korunma yöntemlerini değerlendirin.",
+            "Cinsel temas ve kan temasından korunma önlemlerini uygulayın."
+        ]
+    },
+    {
+        "Disease": "Hepatit C",
+        "Doctor": "Gastroenterolog / Dahiliye",
+        "Description": "Hepatit C, hepatit C virüsü (HCV) tarafından neden olan bir karaciğer enfeksiyonudur. Genellikle kan yoluyla bulaşır. Hastalığın uzun süreli seyri, karaciğer hasarına neden olabilir. Belirtileri arasında yorgunluk, karın ağrısı ve iştah kaybı bulunabilir.",
+        "Suggestions": [
+            "Hepatit C tedavisi için uzman bir doktordan yardım alın.",
+            "Kan temasından kaçının ve hijyen kurallarına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Hepatit D",
+        "Doctor": "Gastroenterolog / Dahiliye",
+        "Description": "Hepatit D, delta virüsü ile birlikte hepatit B virüsü enfeksiyonu olduğunda ortaya çıkan bir hastalıktır. Hepatit D, genellikle hepatit B ile aynı yollarla bulaşır. Belirtileri diğer hepatit türleri ile benzerdir.",
+        "Suggestions": [
+            "Hepatit B aşısı ile korunma yöntemlerini değerlendirin.",
+            "Kan temasından kaçının ve hijyen kurallarına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Hepatit E",
+        "Doctor": "Gastroenterolog / Dahiliye",
+        "Description": "Hepatit E, hepatit E virüsü (HEV) tarafından neden olan bir karaciğer enfeksiyonudur. Genellikle kontamine su tüketimi yoluyla bulaşır. Belirtileri arasında sarılık, karın ağrısı, halsizlik ve iştah kaybı bulunabilir.",
+        "Suggestions": [
+            "Temiz su tüketmeye özen gösterin ve hijyen kurallarına dikkat edin.",
+            "Hepatit E aşısı ile korunma yöntemlerini değerlendirin."
+        ]
+    },
+    {
+        "Disease": "Alkolik Hepatit",
+        "Doctor": "Gastroenterolog / Dahiliye",
+        "Description": "Alkolik hepatit, aşırı alkol tüketimine bağlı olarak karaciğeri etkileyen bir iltihaplanma durumudur. Belirtileri arasında karın ağrısı, sarılık, iştah kaybı ve genel halsizlik bulunabilir. Alkolik hepatit, ciddi komplikasyonlara yol açabilir ve tedavi edilmesi önemlidir.",
+        "Suggestions": [
+            "Alkol tüketimini derhal bırakın ve profesyonel yardım alın.",
+            "Doktorunuzun önerdiği tedavilere düzenli olarak uyun ve sağlıklı bir yaşam tarzını benimseyin."
+        ]
+    },
+    {
+        "Disease": "Tüberküloz",
+        "Doctor": "Göğüs Hastalıkları / Enfeksiyon Hastalıkları",
+        "Description": "Tüberküloz, Mycobacterium tuberculosis adlı bakterinin neden olduğu bulaşıcı bir hastalıktır. Akciğerleri etkileyebileceği gibi diğer organları da tutabilir. Belirtileri arasında öksürük, nefes darlığı, kilo kaybı ve ateş bulunabilir. Tüberküloz, erken teşhis ve tedavi gerektiren ciddi bir hastalıktır.",
+        "Suggestions": [
+            "Tüberküloz tedavisi için uzman bir doktordan yardım alın.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın ve tedavi sürecine bağlı kalın."
+        ]
+    },
+    {
+        "Disease": "Soğuk Algınlığı",
+        "Doctor": "Aile Hekimi / Dahiliye",
+        "Description": "Soğuk algınlığı, genellikle rinovirüsler tarafından neden olan bir üst solunum yolu enfeksiyonudur. Belirtileri arasında burun tıkanıklığı, burun akıntısı, boğaz ağrısı, öksürük ve hafif ateş bulunabilir. Genellikle hafif seyreder ve kendiliğinden geçer.",
+        "Suggestions": [
+            "Bol miktarda su içerek hidrasyonu sağlayın.",
+            "İyi dinlenin ve vücudunuzu dinlendirin.",
+            "Semptomları hafifletmek için doktorunuzun önerdiği ilaçları kullanın."
+        ]
+    },
+    {
+        "Disease": "Akciğer İltihaplanması (Zatürre)",
+        "Doctor": "Göğüs Hastalıkları / Enfeksiyon Hastalıkları",
+        "Description": "Akciğer iltihaplanması veya zatürre, genellikle bakteriler, virüsler veya mantarlar tarafından neden olan bir enfeksiyon sonucu oluşan akciğer dokusunun iltihaplanmasıdır. Belirtileri arasında öksürük, nefes darlığı, ateş, göğüs ağrısı ve balgam üretimi bulunabilir. Ciddi bir durumdur ve hemen tedavi gerektirir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği antibiyotik veya antiviral tedaviyi düzenli olarak uygulayın.",
+            "İyileşme sürecinde istirahat edin ve vücudunuzun dinlenmeye ihtiyacı olduğunu unutmayın."
+        ]
+    },
+    {
+        "Disease": "Dimorfik Hemoroit",
+        "Doctor": "Genel Cerrahi / Proktolog",
+        "Description": "Dimorfik hemoroit, anüs bölgesindeki damarlarda şişme ve iltihaplanma sonucu oluşan bir durumdur. Belirtileri arasında makat bölgesinde ağrı, kaşıntı, kanama ve şişlik bulunabilir. Tedavi seçenekleri arasında ilaçlar, diyet değişiklikleri ve cerrahi müdahale yer alabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tedavilere düzenli olarak uyun.",
+            "Yeterli lifli besin tüketimi ve su içimi sağlayarak kabızlığı önleyin."
+        ]
+    },
+    {
+        "Disease": "Kalp Krizi",
+        "Doctor": "Kardiyolog / Acil Tıp",
+        "Description": "Kalp krizi, kalbin bir bölgesine yeterli kan akışının engellendiği bir durumdur. Bu genellikle bir koroner arterin tıkanması sonucu oluşur. Belirtileri arasında göğüs ağrısı veya rahatsızlık, nefes darlığı, terleme ve bulantı bulunabilir. Kalp krizi acil tıbbi müdahale gerektirir.",
+        "Suggestions": [
+            "Hemen acil servise başvurun.",
+            "Göğüs ağrısı varsa hareket etmekten kaçının ve dinlenin."
+        ]
+    },
+    {
+        "Disease": "Varisli Damarlar",
+        "Doctor": "Dermatolog / Damar Cerrahisi",
+        "Description": "Varisli damarlar, genellikle bacaklarda, toplardamarlarda meydana gelen genişlemiş ve şişmiş damarlardır. Belirtileri arasında ağrı, ağırlık hissi, kaşıntı ve genişlemiş damarlar görülebilir. Tedavi seçenekleri arasında skleroterapi, radyofrekans ablasyon ve cerrahi müdahale yer alabilir.",
+        "Suggestions": [
+            "Uzun süre ayakta durmaktan kaçının ve bacakları dinlendirin.",
+            "Doktorunuzun önerdiği basınçlı çorapları kullanın ve fiziksel aktivitenizi arttırın."
+        ]
+    },
+    {
+        "Disease": "Hipotiroidizm",
+        "Doctor": "Endokrinolog / Dahiliye",
+        "Description": "Hipotiroidizm, tiroid bezinin yeterli miktarda hormon üretememesi durumudur. Belirtileri arasında kilo artışı, yorgunluk, soğuğa duyarlılık ve depresyon bulunabilir. Hipotiroidizm genellikle tiroid hormonu içeren ilaçlarla tedavi edilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tiroid hormon ilaçlarını düzenli olarak kullanın.",
+            "Diyetinizi ve yaşam tarzınızı gözden geçirerek sağlıklı bir yaşam sürün."
+        ]
+    },
+    {
+        "Disease": "Hipertiroidizm",
+        "Doctor": "Endokrinolog / Dahiliye",
+        "Description": "Hipertiroidizm, tiroid bezinin aşırı miktarda hormon üretmesi durumudur. Belirtileri arasında kilo kaybı, hızlı kalp atışı, sinirlilik ve titreme bulunabilir. Hipertiroidizm, ilaçlar, radyoaktif iyot tedavisi veya cerrahi ile tedavi edilebilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tedavilere uygun olarak hareket edin.",
+            "Diyetinizi ve yaşam tarzınızı düzenleyerek sağlıklı bir şekilde yaşayın."
+        ]
+    },
+    {
+        "Disease": "Hipoglisemi",
+        "Doctor": "Endokrinolog / Dahiliye",
+        "Description": "Hipoglisemi, kan şekerinin normalden düşük seviyelere inmesidir. Belirtileri arasında terleme, titreme, açlık hissi ve bayılma eğilimi bulunabilir. Hipoglisemi genellikle diyabet tedavisi sırasında ortaya çıkar.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği diyabet yönetim planına uygun olarak diyetinizi ve yaşam stilinizi düzenleyin.",
+            "Düzenli aralıklarla sağlık kontrolü yaptırarak kan şekerinizi takip edin."
+        ]
+    },
+    {
+        "Disease": "Osteoartrit",
+        "Doctor": "Romatolog / Ortopedi",
+        "Description": "Osteoartrit, eklemleri etkileyen bir dejeneratif hastalıktır. Belirtileri arasında eklem ağrısı, sertlik, şişlik ve hareket kısıtlılığı bulunabilir. Osteoartritin yönetimi, ilaçlar, fizik tedavi ve yaşam tarzı değişikliklerini içerebilir.",
+        "Suggestions": [
+            "Fizik tedavi ve egzersiz programlarına düzenli olarak katılın.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın ve kilonuzu kontrol altında tutun."
+        ]
+    },
+    {
+        "Disease": "Artrit",
+        "Doctor": "Romatolog / Ortopedi",
+        "Description": "Artrit, bir veya birden fazla eklemde iltihaplanma durumudur. Belirtileri arasında eklem ağrısı, şişlik, kızarıklık ve hareket kısıtlılığı bulunabilir. Artritin yönetimi, ilaçlar, fizik tedavi ve cerrahi müdahaleyi içerebilir.",
+        "Suggestions": [
+            "Doktora başvurun ve önerilen ilaçları düzenli olarak kullanarak eklem sağlığınızı koruyun.",
+            "Fizik tedavi ve egzersiz programlarına düzenli olarak katılın."
+        ]
+    },
+    {
+        "Disease": "Paroymsal Pozisyonel Vertigo",
+        "Doctor": "Kulak Burun Boğaz (KBB)",
+        "Description": "Paroymsal pozisyonel vertigo (BPPV), iç kulakta bulunan yarım daire kanallarında serbestçe hareket eden kalsiyum kristallerinin (otolitler) hareket etmesine neden olan bir durumdur. Bu kristaller, baş pozisyonundaki değişikliklere yanıt olarak denge kanallarını uyararak baş dönmesine neden olur.",
+        "Suggestions": [
+            "Hemen bir doktora başvurun.",
+            "Paroymsal pozisyonel vertigo için tedavi genellikle Epley manevrası gibi basit bir manuel manevradır.",
+            "Paroymsal pozisyonel vertigonun tekrarlama riskini azaltmak için, başınızı ani hareketlerden kaçının ve yataktan kalkarken veya yatarken dikkatli olun.",
+            "Düzenli olarak egzersiz yapın ve sağlıklı bir diyet yapın.",
+            "Stresi azaltın."
+        ]
+    },
+    {
+        "Disease": "Akne",
+        "Doctor": "Dermatolog",
+        "Description": "Akne, ciltteki yağ bezlerinin tıkanması ve iltihaplanmasından kaynaklanan bir cilt hastalığıdır. Yaygın belirtileri arasında siyah nokta, beyaz nokta, sivilce ve nodüller bulunur.",
+        "Suggestions": [
+            "Akne tedavisi, cilt tipine ve aknenin şiddetine bağlı olarak değişir. Tedavi seçenekleri arasında topikal ilaçlar, oral ilaçlar ve lazer tedavileri yer alır.",
+            "Akne oluşumunu önlemek için, yağlı ve akneye yatkın ciltler için uygun ürünleri kullanın, cildinizi düzenli olarak yıkayın ve cilt bakım ürünlerini gözünüze temas ettirmekten kaçının.",
+            "Stresi azaltın ve sağlıklı bir diyet yapın.",
+            "Düzenli olarak egzersiz yapın."
+        ]
+    },
+    {
+        "Disease": "İdrar Yolu Enfeksiyonu",
+        "Doctor": "Ürolog / Dahiliye",
+        "Description": "İdrar yolu enfeksiyonu (İYE), idrar yollarının herhangi bir yerinde meydana gelen bir enfeksiyondur. En yaygın olarak idrar kesesini (sistit) ve idrar yollarını (üretrit) etkiler.",
+        "Suggestions": [
+            "Doktora başvurun ve doktorunuzun önerdiği tedaviyi (antibiyotik olabilir) düzenli olarak uygulayın.",
+            "İdrar yolu enfeksiyonunu önlemek için, bol su için, idrarınızı tutmayın ve cinsel ilişkiden sonra idrar yapın."
+        ]
+    },
+    {
+        "Disease": "Sedef Hastalığı",
+        "Doctor": "Dermatolog / Romatolog",
+        "Description": "Sedef hastalığı, bağışıklık sisteminin aşırı çalışması sonucu cilt hücrelerinin hızla üremesiyle oluşan bir kronik cilt hastalığıdır. Belirtileri arasında kırmızı lekeler, kalınlaşmış cilt, pullanma ve kaşıntı bulunabilir. Sedef hastalığı tedavisi cilt tipine göre değişiklik gösterir.",
+        "Suggestions": [
+            "Doktora başvurun ve doktorunuzun önerdiği tedavileri (topikal ilaçlar, oral ilaçlar ve ışık tedavisi) düzenli olarak uygulayın.",
+            "Sağlıklı bir yaşam tarzı benimseyin ve stresi yönetmeye özen gösterin."
+        ]
+    },
+    {
+        "Disease": "İmpetigo",
+        "Doctor": "Çocuk Sağlığı ve Hastalıkları / Dermatolog",
+        "Description": "İmpetigo, bakterilerin cilde girmesi sonucu oluşan bulaşıcı bir cilt enfeksiyonudur. Belirtileri arasında kırmızı lezyonlar, kabarcıklar, yaralar ve kaşıntı bulunabilir. İmpetigo tedavisi genellikle antibiyotik merhem veya ilaçlar içerir.",
+        "Suggestions": [
+            "Doktora başvurun ve önerilen antibiyotik tedaviyi düzenli olarak uygulayın.",
+            "İmpetigoyu önlemek için, yaraları temiz tutun ve enfeksiyondan etkilenen kişiyle yakın temastan kaçının"
+        ]
+    },
+    {
+        "Disease": "Kovid",
+        "Doctor": "Enfeksiyon Hastalıkları / Acil Tıp",
+        "Description": "COVID-19, SARS-CoV-2 virüsünün neden olduğu bulaşıcı bir solunum yolu hastalığıdır. Belirtileri arasında ateş, öksürük, nefes darlığı, kas ağrıları ve koku-tat kaybı bulunabilir. COVID-19 tedavisi genellikle semptomatik destek ve izolasyonu içerir.",
+        "Suggestions": [
+            "Doktora başvurun, aşı olun ve güncel aşı takviminize uyun.",
+            "Ellerinizi sık sık yıkayın, sosyal mesafeyi koruyun, maske takın ve kalabalık ortamlardan kaçının.",
+            "Semptomları hafifletmek için önerilen ilaçları kullanın ve vücudunuzu dinlendirin."
+        ]
+    },
+    {
+        "Disease": "Dimorfik Hemoroid",
+        "Doctor": "Genel Cerrahi / Proktolog",
+        "Description": "Dimorfik hemoroid, anüs bölgesindeki damarlarda şişme ve iltihaplanma sonucu oluşan bir durumdur. Belirtileri arasında makat bölgesinde ağrı, kaşıntı, kanama ve şişlik bulunabilir. Tedavi seçenekleri arasında ilaçlar, diyet değişiklikleri ve cerrahi müdahale yer alabilir.",
+        "Suggestions": [
+            "Genel cerrahi uzmanına veya proktologa başvurun.",
+            "Doktorunuzun önerdiği ilaçları ve diyet değişikliklerini uygulayın.",
+            "Ağrıyı hafifletmek için oturma banyoları veya soğuk kompresler kullanın."
+        ]
+    },
+    {
+        "Disease": "Paroksismal Pozisyonel Vertigo",
+        "Doctor": "Kulak Burun Boğaz (KBB) / Nöroloji",
+        "Description": "Paroksismal Pozisyonel Vertigo (PPV), iç kulağın dengesizlikten sorumlu olan bir bölgesindeki kristallerin yer değiştirmesi sonucu oluşan baş dönmesidir. Belirtileri arasında ani baş dönmesi, denge kaybı ve bulantı hissi bulunabilir. PPV genellikle belirli baş pozisyonlarında ortaya çıkar.",
+        "Suggestions": [
+            "Kulak burun boğaz uzmanına veya nöroloji uzmanına başvurun.",
+            "Doktorunuzun önerdiği baş pozisyon egzersizlerini düzenli olarak uygulayın.",
+            "Baş dönmesini tetikleyen durumlardan kaçının ve ani hareketlerden sakının."
+        ]
+    },
+    {
+        "Disease": "Nezle",
+        "Doctor": "Aile Hekimi / Dahiliye",
+        "Description": "Nezle, genellikle rinovirüsler tarafından neden olan bir üst solunum yolu enfeksiyonudur. Belirtileri arasında burun tıkanıklığı, burun akıntısı, hapşırma, boğaz ağrısı ve hafif ateş bulunabilir. Nezle genellikle hafif seyreder ve kendiliğinden geçer.",
+        "Suggestions": [
+            "Bol miktarda su içerek hidrasyonu sağlayın.",
+            "İyi dinlenin ve vücudunuzu dinlendirin.",
+            "Semptomları hafifletmek için doktorunuzun önerdiği ilaçları kullanın."
+        ]
+    },
+    {
+        "Disease": "Bronşit",
+        "Doctor": "Göğüs Hastalıkları / Dahiliye",
+        "Description": "Bronşit, bronş tüplerinin iltihaplanması sonucu oluşan bir solunum sistemi hastalığıdır. Belirtileri arasında öksürük, balgam üretimi, göğüs ağrısı ve nefes darlığı bulunabilir. Akut bronşit genellikle viral enfeksiyonlara bağlı olarak ortaya çıkar.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Havayolu temizleyici inhalerleri kullanarak solunumu destekleyin."
+        ]
+    },
+    {
+        "Disease": "Felç",
+        "Doctor": "Nörolog ",
+        "Description": "Felç, beyin kanaması veya pıhtı nedeniyle bir bölgenin kan akışının engellenmesi sonucu oluşan bir durumdur. Belirtileri arasında vücudun bir tarafında güçsüzlük, konuşma bozukluğu ve yüzde asimetrik bir ifade kaybı bulunabilir.",
+        "Suggestions": [
+            "Felç belirtileri varsa kişiyi hareket ettirmekten kaçının.",
+            "Felçli bölgeye masaj veya ilaç uygulamaktan kaçının ve profesyonel yardım alın."
+        ]
+    },
+    {
+        "Disease": "Kanser",
+        "Doctor": "Onkolog / Genel Cerrahi",
+        "Description": "Kanser, vücut hücrelerinin kontrolsüz bir şekilde büyümesi ve çoğalması sonucu oluşan bir hastalıktır. Belirtileri ve tedavisi kanser türüne bağlı olarak değişebilir. Erken teşhis ve tedavi önemlidir.",
+        "Suggestions": [
+            "Onkolog veya genel cerrahi uzmanına başvurun.",
+            "Doktorunuzun önerdiği tarama testlerine düzenli olarak katılın.",
+            "Sağlıklı bir yaşam tarzı benimseyin ve risk faktörlerinden kaçının."
+        ]
+    },
+    {
+        "Disease": "Alzheimer Hastalığı",
+        "Doctor": "Nörolog / Psikiyatrist",
+        "Description": "Alzheimer hastalığı, özellikle yaşlılık döneminde bilişsel fonksiyonların zamanla kaybedildiği bir nörodejeneratif hastalıktır. Belirtileri arasında hafıza kaybı, zihinsel berraklığın azalması ve günlük aktiviteleri sürdürmede zorluk bulunabilir.",
+        "Suggestions": [
+            "Nörolog veya psikiyatriste başvurun.",
+            "Doktorunuzun önerdiği ilaçları ve tedavi planını takip edin.",
+            "Hasta ve bakıcı için destek gruplarından faydalanın."
+        ]
+    },
+    {
+        "Disease": "Adenovirüs",
+        "Doctor": "Enfeksiyon Hastalıkları / Çocuk Sağlığı ve Hastalıkları",
+        "Description": "Adenovirüs, solunum yolu enfeksiyonlarına ve diğer hastalıklara neden olan bir virüstür. Belirtileri arasında üst solunum yolu enfeksiyonu, konjonktivit, ishal ve boğaz ağrısı bulunabilir. Adenovirüs enfeksiyonları genellikle hafif seyreder.",
+        "Suggestions": [
+            "Enfeksiyon hastalıkları uzmanına veya çocuk sağlığı ve hastalıkları uzmanına başvurun.",
+            "Hidrasyonu sağlayın ve dinlenmeye özen gösterin.",
+            "El hijyenine dikkat edin ve hastalık belirtileri ortaya çıktığında teması sınırlayın."
+        ]
+    },
+    {
+        "Disease": "Aflatoksikoz",
+        "Doctor": "Gastroenterolog / Dahiliye",
+        "Description": "Aflatoksikoz, aflatoksin adı verilen mantar toksinlerine maruz kalma sonucu ortaya çıkan bir zehirlenme durumudur. Bu toksinler genellikle küf içeren besinlerde bulunabilir. Aflatoksikoz belirtileri arasında karaciğer hasarı, mide bulantısı, kusma ve sarılık bulunabilir.",
+        "Suggestions": [
+            "Güvenilir gıda kaynaklarından alışveriş yapmaya dikkat edin.",
+            "Yiyecekleri saklama koşullarına dikkat edin ve nemli ortamlarda muhafaza etmeyin.",
+            "Doktora başvurun ve doktorunuzun önerdiği tedavilere ve detoksifikasyon yöntemlerine uygun olarak hareket edin."
+        ]
+    },
+    {
+        "Disease": "Alerjik Rinit",
+        "Doctor": "Alerji ve İmmünoloji / Kulak Burun Boğaz (KBB)",
+        "Description": "Alerjik rinit, alerjenlere karşı aşırı duyarlılık sonucu burun içindeki mukoza zarının iltihaplanmasıdır. Belirtileri arasında burun akıntısı, hapşırma, kaşıntılı burun ve burun tıkanıklığı bulunabilir. Alerjik rinit genellikle mevsimsel veya sürekli olabilir.",
+        "Suggestions": [
+            "Alerjiye sebep olan şeylerden kaçının ve alerji testleri yaptırarak tetikleyicileri belirleyin.",
+            "Polen mevsiminde pencereleri kapalı tutun ve HEPA filtreli klima kullanın.",
+            "Yatak odanızı toz ve akar tutmaz hale getirin."
+        ]
+    },
+    {
+        "Disease": "Anemi",
+        "Doctor": "Hematolog / Dahiliye",
+        "Description": "Anemi, vücutta yeterli miktarda sağlıklı kırmızı kan hücresi üretilememesi veya kan kaybı nedeniyle oluşan bir durumdur. Belirtileri arasında halsizlik, soluk cilt, baş dönmesi ve zayıflık bulunabilir. Anemi nedenine bağlı olarak tedavi yöntemleri değişiklik gösterir.",
+        "Suggestions": [
+            "Aneminin nedenini belirlemek için bir doktora danışın ve önerdiği tedaviyi takip edin.",
+            "Anemiyi önlemek için demir açısından zengin ve sağlıklı gıdalarla beslenin, düzenli egzersiz yapın ve sigara içmekten kaçının."
+        ]
+    },
+    {
+        "Disease": "Anksiyete Bozukluğu",
+        "Doctor": "Psikiyatrist / Psikolog",
+        "Description": "Anksiyete bozukluğu, sürekli endişe, korku ve gerginlik duygularıyla karakterize edilen bir zihinsel sağlık sorunudur. Belirtileri arasında sinirlilik, kas gerginliği, uyku problemleri ve odaklanma zorluğu bulunabilir. Anksiyete bozukluğu tedavisi terapi, ilaçlar veya kombinasyonu içerebilir.",
+        "Suggestions": [
+            "Psikiyatrist veya psikologa başvurun ve doktorunuzun önerdiği terapi seanslarına düzenli olarak katılın.",
+            "Anksiyeteyi yönetmenize yardımcı olabilecek sağlıklı yaşam tarzı değişiklikleri yapın."
+        ]
+    },
+    {
+        "Disease": "Apandisit",
+        "Doctor": "Cerrahi Uzman / Acil Tıp",
+        "Description": "Apandisit, apendiks adı verilen kör bir bağırsağın iltihaplanması durumudur. Belirtileri arasında karın ağrısı, iştah kaybı, bulantı ve kusma bulunabilir. Apandisit genellikle acil cerrahi müdahale gerektirir.",
+        "Suggestions": [
+            "Apandisit belirtileri yaşıyorsanız hemen bir doktora başvurun.",
+            "Karın ağrısı varsa yemek yemekten kaçının ve sıvı alımına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Asperger Sendromu",
+        "Doctor": "Psikiyatrist / Nörolog",
+        "Description": "Asperger Sendromu, genellikle sosyal etkileşim ve iletişimde zorluklarla birlikte, belirli ilgi alanlarına odaklanma ve tekrarlayıcı davranışlarla karakterize edilen bir otizm spektrum bozukluğudur. Asperger sendromlu kişilerin genellikle zeka seviyeleri normaldir. Belirtileri arasında sosyal beceri eksikliği, sınırlı ilgi alanları ve rutinlere bağlılık bulunabilir.",
+        "Suggestions": [
+            "Doktor kontrolünde özel eğitim, terapi ve aile desteği Asperger sendromlu kişiler için faydalıdır.",
+            "Erken tanı ve müdahale ile sosyal becerilerin geliştirilmesine ve günlük yaşamın kolaylaştırılmasına yardımcı olmak mümkündür."
+        ]
+    },
+    {
+        "Disease": "Astım",
+        "Doctor": "Göğüs Hastalıkları / Aile Hekimi",
+        "Description": "Astım, solunum yollarının kronik iltihaplı bir hastalığıdır. Hava yollarının daralmasıyla nefes almada zorluk, öksürük, hırıltı ve nefes darlığı gibi semptomlara neden olur. Alerjenler, hava kirliliği, egzersiz ve stres astım atağını tetikleyebilir.",
+        "Suggestions": [
+            "Astım teşhisi için doktorunuz fizik muayene, spirometri ve alerji testleri gibi yöntemler kullanacaktır.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Astım tetikleyicilerinden uzak durmaya çalışın ve sağlıklı yaşam tarzı alışkanlıklarını benimseyin."
+        ]
+    },
+    {
+        "Disease": "Bakteriyel Menenjit",
+        "Doctor": "Enfeksiyon Hastalıkları / Nörolog",
+        "Description": "Bakteriyel menenjit, beyin zarlarının enfeksiyonu sonucu ortaya çıkan bir durumdur. Belirtileri arasında yüksek ateş, şiddetli baş ağrısı, bulantı, kusma ve hassaslık bulunabilir. Bakteriyel menenjit acil tıbbi müdahale gerektiren ciddi bir durumdur.",
+        "Suggestions": [
+            "Hemen acil servise gitmek önemlidir.",
+            "Aşılama programlarına düzenli olarak katılın ve kişisel hijyeninize dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Bipolar Bozukluk",
+        "Doctor": "Psikiyatrist / Psikolog",
+        "Description": "Bipolar bozukluk, duygusal dalgalanmalarla karakterize edilen bir ruhsal hastalıktır. Belirtileri arasında mani dönemleriyle yüksek enerji, depresyon dönemleriyle düşük enerji, uyku problemleri ve odaklanma zorluğu bulunabilir. Bipolar bozukluk tedavisi ilaçlar ve terapiyi içerebilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Psikoterapi veya bilişsel davranış terapisi gibi terapi seanslarına katılın."
+        ]
+    },
+    {
+        "Disease": "Mesane Kanseri",
+        "Doctor": "Ürolog / Onkolog",
+        "Description": "Mesane kanseri, mesane iç yüzeyindeki hücrelerin anormal bir şekilde büyümesi sonucu oluşan bir kanser türüdür. Belirtileri arasında kanlı idrar, sık idrara çıkma, pelvik ağrı ve kilo kaybı bulunabilir. Mesane kanseri tedavisi cerrahi, kemoterapi ve radyoterapi içerebilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tarama testlerine düzenli olarak katılın.",
+            "Sigara içmek, mesane kanseri riskini artıran başlıca faktörlerden biridir. Sigarayı bırakmak mesane kanseri riskini azaltmaya yardımcı olabilir.",
+            "Risk faktörlerinden kaçının ve sağlıklı bir yaşam tarzı benimseyin."
+        ]
+    },
+    {
+        "Disease": "Kan Pıhtısı",
+        "Doctor": "Hematolog / Kardiyolog",
+        "Description": "Kan pıhtısı, kan damarlarında oluşan anormal bir katılaşma durumudur. Belirtileri arasında şişmiş ve ağrılı bacaklar, nefes darlığı, göğüs ağrısı ve hızlı kalp atışı bulunabilir. Kan pıhtısı tedavisi kan inceltici ilaçlar ve diğer antikoagülan tedavileri içerebilir.",
+        "Suggestions": [
+            "Ailenizde kan pıhtısı öyküsü varsa, kan pıhtısı riskinizi değerlendirmek için bir doktora başvurun.",
+            "Uzun süre hareketsiz kalmak, kan pıhtısı riskini artırabilir. Uzun süre hareketsiz kalmanız gerekiyorsa, kan pıhtısı riskini azaltmak için önlemler alın.",
+            "Sigara içmek, kan pıhtısı riskini artıran başlıca faktörlerden biridir. Sigarayı bırakmak kan pıhtısı riskini azaltmaya yardımcı olabilir.",
+            "Doktorunuzun önerdiği kan inceltici ilaçları düzenli olarak kullanın.",
+            "Düzenli egzersiz yapın ve sağlıklı bir diyet benimseyin."
+        ]
+    },
+    {
+        "Disease": "Bursit",
+        "Doctor": "Ortopedi / Fizik Tedavi ve Rehabilitasyon",
+        "Description": "Bursit, eklemleri çevreleyen sıvı dolu keseciklerin iltihaplanması sonucu oluşan bir durumdur. Belirtileri arasında eklem ağrısı, şişlik, kızarıklık ve hareket kısıtlılığı bulunabilir. Bursit genellikle aşırı kullanım veya travma sonucu ortaya çıkabilir.",
+        "Suggestions": [
+            "Etkilenen bölgeyi dinlendirin ve soğuk uygulama yapın.",
+            "Doktorunuzun önerdiği fizik tedavi egzersizlerini düzenli olarak uygulayın."
+        ]
+    },
+    {
+        "Disease": "Rahim Ağzı Kanseri",
+        "Doctor": "Jinekolog / Onkolog",
+        "Description": "Rahim ağzı kanseri, rahim ağzındaki hücrelerin anormal büyümesi sonucu oluşan bir kanser türüdür. Belirtileri arasında vajinal kanama, ilişki sırasında ağrı ve pelvik ağrı bulunabilir. Rahim ağzı kanseri tarama testleri ile erken evrede tespit edilebilir.",
+        "Suggestions": [
+            "Düzenli jinekolojik muayeneleri ihmal etmeyin.",
+            "HPV aşısı olun (belirli yaş grupları için uygun)."
+        ]
+    },
+    {
+        "Disease": "Göz Nezlesi",
+        "Doctor": "Göz Doktoru / Konjonktivit",
+        "Description": "Göz nezlesi, gözün yüzeyini kaplayan ince zarın iltihaplanmasıdır. Belirtileri arasında kızarıklık, sulanma, kaşıntı ve göz akıntısı bulunabilir. Göz nezlesi genellikle viral veya bakteriyel enfeksiyonlardan kaynaklanır.",
+        "Suggestions": [
+            "Ellerinizi sık sık yıkayın ve gözlerinize dokunmaktan kaçının.",
+            "Doktorunuzun önerdiği göz damlalarını düzenli olarak kullanın."
+        ]
+    },
+    {
+        "Disease": "Depresyon",
+        "Doctor": "Psikiyatrist / Psikolog",
+        "Description": "Depresyon, uzun süreli düşük ruh hali, enerji eksikliği ve ilgi kaybı ile karakterize edilen bir zihinsel sağlık sorunudur. Belirtileri arasında umutsuzluk, uyku problemleri, kilo değişiklikleri ve odaklanma güçlüğü bulunabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları ve terapi seanslarını düzenli olarak kullanın.",
+            "Sosyal destek alın ve günlük aktivitelere katılmaya çalışın."
+        ]
+    },
+    {
+        "Disease": "İshal",
+        "Doctor": "Dahiliye / Gastroenterolog",
+        "Description": "İshal, sık ve sulu dışkılama ile karakterize edilen bir sindirim sistemi sorunudur. Belirtileri arasında karın ağrısı, kramp, ateş ve susuzluk bulunabilir. İshal genellikle viral veya bakteriyel enfeksiyonlardan kaynaklanır.",
+        "Suggestions": [
+            "Bol su içerek hidrasyonu sağlayın.",
+            "Doktorunuzun önerdiği diyet değişikliklerine uyun ve istirahat edin."
+        ]
+    },
+    {
+        "Disease": "Yüksek Ateş",
+        "Doctor": "DahiliyeUzmanı / Acil Tıp",
+        "Description": "Yüksek ateş, vücut sıcaklığının normalden daha yüksek olması durumudur. Belirtileri arasında titreme, terleme, baş ağrısı ve kas ağrıları bulunabilir. Yüksek ateş genellikle enfeksiyon, inflamasyon veya diğer sağlık sorunlarına bağlı olarak ortaya çıkar.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ateş düşürücü ilaçları kullanın.",
+            "Dinlenin, bol su için ve vücut sıcaklığınızı düzenli olarak kontrol edin."
+        ]
+    },
+    {
+        "Disease": "Gıda Zehirlenmesi",
+        "Doctor": "Dahiliye / Acil Tıp",
+        "Description": "Gıda zehirlenmesi, bakteri, virüs veya parazitlerin kontamine gıdaların tüketilmesi sonucu ortaya çıkan bir durumdur. Belirtileri arasında mide bulantısı, kusma, ishal ve karın ağrısı bulunabilir.",
+        "Suggestions": [
+            "Bol su içerek hidrasyonu sağlayın.",
+            "Doktorunuzun önerdiği diyet değişikliklerine uyun ve istirahat edin."
+        ]
+    },
+    {
+        "Disease": "Safra Taşları",
+        "Doctor": "Gastroenterolog / Cerrahi Uzman",
+        "Description": "Safra taşları, safra kesesinde veya safra yollarında oluşan katı parçacıklardır. Belirtileri arasında karın ağrısı, bulantı, kusma ve sarılık bulunabilir. Safra taşları genellikle safra kesesinin çıkarılması veya diğer tedavi yöntemleri ile yönetilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tetkikleri yaptırın ve tedavi seçeneklerini değerlendirin.",
+            "Dengeli bir diyet benimseyin ve sağlıklı yaşam tarzını sürdürün."
+        ]
+    },
+    {
+        "Disease": "Kalp Hastalığı",
+        "Doctor": "Kardiyolog / Dahiliye",
+        "Description": "Kalp hastalığı, kalbin normal işlevini bozan bir dizi durumu içerir. Belirtileri arasında göğüs ağrısı, nefes darlığı, yorgunluk ve çarpıntı bulunabilir. Kalp hastalığı tedavisi yaşam tarzı değişiklikleri, ilaçlar ve gerekirse cerrahi müdahale içerebilir.",
+        "Suggestions": [
+            "Sağlıklı bir diyet benimseyin ve düzenli egzersiz yapın.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın ve periyodik kontrollerinizi ihmal etmeyin."
+        ]
+    },
+    {
+        "Disease": "Grip",
+        "Doctor": "İç Hastalıkları veya Aile Hekimi",
+        "Description": "Grip, influenza virüsünün neden olduğu bulaşıcı bir solunum enfeksiyonudur. Belirtileri arasında yüksek ateş, kas ağrıları, öksürük ve burun akıntısı bulunabilir. Grip genellikle dinlenme, sıvı alımı ve bazen antiviral ilaçlarla tedavi edilir.",
+        "Suggestions": [
+            "Dinlenin, bol su için ve doktorunuzun önerdiği ilaçları kullanın.",
+            "Grip aşısı yaptırarak korunma önlemleri alın."
+        ]
+    },
+    {
+        "Disease": "Huzursuz Bağırsak Sendromu",
+        "Doctor": "Gastroenterolog / Dahiliye",
+        "Description": "Huzursuz bağırsak sendromu, bağırsak fonksiyonlarında bozukluklara neden olan kronik bir sindirim sistemi bozukluğudur. Belirtileri arasında karın ağrısı, şişkinlik, kabızlık veya ishal bulunabilir. Tedavisi genellikle yaşam tarzı değişiklikleri ve belirtilere yönelik tedavileri içerir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği diyet ve yaşam tarzı değişikliklerini uygulayın.",
+            "Stres yönetimi tekniklerini öğrenin ve uygulayın."
+        ]
+    },
+    {
+        "Disease": "Böbrek Taşı",
+        "Doctor": "Ürolog / Nefrolog",
+        "Description": "Böbrek taşı, idrar yollarında oluşan sert parçacıklardır. Belirtileri arasında şiddetli sırt veya karın ağrısı, kanlı idrar, bulantı ve kusma bulunabilir. Böbrek taşı tedavisi, ağrı yönetimi, sıvı alımı artırma ve bazen cerrahi müdahaleyi içerebilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği sıvı alımına dikkat edin.",
+            "Belirtileri hafifletmek için ağrı yönetimi yöntemlerini kullanın."
+        ]
+    },
+    {
+        "Disease": "Akciğer Kanseri",
+        "Doctor": "Onkolog / Göğüs Cerrahisi",
+        "Description": "Akciğer kanseri, akciğerlerde anormal hücre büyümesi sonucu oluşan bir kanser türüdür. Belirtileri arasında öksürük, nefes darlığı, göğüs ağrısı ve kan tükürme bulunabilir. Akciğer kanseri tedavisi, cerrahi, kemoterapi ve radyoterapiyi içerebilir.",
+        "Suggestions": [
+            "Sigara içiyorsanız bırakın ve sigara dumanından uzak durun.",
+            "Doktorunuzun önerdiği tedavi planına uygun olarak hareket edin."
+        ]
+    },
+    {
+        "Disease": "Kızamık",
+        "Doctor": "Çocuk Doktoru / Enfeksiyon Hastalıkları",
+        "Description": "Kızamık, kızamık virüsü enfeksiyonu sonucu ortaya çıkan bulaşıcı bir hastalıktır. Belirtileri arasında ateş, kızarıklık, öksürük ve gözlerde hassasiyet bulunabilir. Kızamık aşısı ile korunma mümkündür.",
+        "Suggestions": [
+            "Çocuklarınıza aşı programlarına uygun olarak aşılarını yaptırın.",
+            "Hasta kişilerle teması sınırlayın ve hijyen kurallarına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Menenjit",
+        "Doctor": "Enfeksiyon Hastalıkları / Nörolog",
+        "Description": "Menenjit, beyin zarlarının iltihaplanması sonucu ortaya çıkan bir enfeksiyondur. Belirtileri arasında yüksek ateş, şiddetli baş ağrısı, bulantı, kusma ve şuur kaybı bulunabilir. Menenjit acil tıbbi müdahale gerektiren ciddi bir durumdur.",
+        "Suggestions": [
+            "Hemen acil servise gitmek önemlidir.",
+            "Aşılama programlarına düzenli olarak katılın ve kişisel hijyeninize dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Mononükleoz",
+        "Doctor": "Dahiliye / Enfeksiyon Hastalıkları",
+        "Description": "Mononükleoz, Epstein-Barr virüsü nedeniyle ortaya çıkan bir enfeksiyon hastalığıdır. Belirtileri arasında yorgunluk, boğaz ağrısı, ateş ve lenf bezlerinde şişme bulunabilir. Mononükleoz genellikle dinlenme ve semptomatik tedavi ile yönetilir.",
+        "Suggestions": [
+            "Dinlenin, bol su için ve doktorunuzun önerdiği semptomatik tedavilere uyun.",
+            "Enfekte olmuş kişilerle teması sınırlayın ve hijyen kurallarına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Kuduz",
+        "Doctor": "Enfeksiyon Hastalıkları / Nörolog",
+        "Description": "Kuduz, kuduz virüsünün neden olduğu ciddi bir enfeksiyon hastalığıdır. Belirtileri arasında ateş, baş ağrısı, kas ağrıları ve sinir sistemi bozuklukları bulunabilir. Kuduz, genellikle hayvan ısırıkları sonucu bulaşır.",
+        "Suggestions": [
+            "Eğer hayvan ısırığı varsa, ısırılan bölgeyi bol su ve sabunla yıkayın.",
+            "Kuduz aşısını zamanında yaptırın ve aşı takvimine uygun olarak korunma önlemlerini alın."
+        ]
+    },
+    {
+        "Disease": "Salmonella",
+        "Doctor": "Dahiliye / Enfeksiyon Hastalıkları",
+        "Description": "Salmonella, bakterinin neden olduğu bir gıda zehirlenmesi türüdür. Belirtileri arasında mide bulantısı, kusma, ishal, ateş ve karın ağrısı bulunabilir. Salmonella genellikle kontamine gıdaların tüketilmesiyle bulaşır.",
+        "Suggestions": [
+            "Bol su içerek hidrasyonu sağlayın.",
+            "Doktorunuzun önerdiği diyet değişikliklerine uyun ve istirahat edin."
+        ]
+    },
+    {
+        "Disease": "Zona Hastalığı",
+        "Doctor": "Dermatolog / Enfeksiyon Hastalıkları",
+        "Description": "Zona, suçiçeği virüsünün neden olduğu bir enfeksiyon sonucu ortaya çıkan bir deri hastalığıdır. Belirtileri arasında ağrılı döküntüler, kaşıntı, yanma hissi ve genel bir kötü hissetme bulunabilir.",
+        "Suggestions": [
+            "Ağrıyı hafifletmek için doktorunuzun önerdiği ilaçları kullanın.",
+            "Döküntüleri temiz tutun ve bulaşma riskini azaltmak için hijyen kurallarına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Siğiller",
+        "Doctor": "Dermatolog / Genel Cerrahi",
+        "Description": "Siğiller, insan papillomavirüs (HPV) enfeksiyonu sonucu ortaya çıkan deri lezyonlarıdır. Belirtileri arasında deri üzerinde kabarık lezyonlar, renk değişiklikleri ve kaşıntı bulunabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tedavi yöntemlerini uygulayın.",
+            "Siğilleri kaşımaktan kaçının ve bulaşma riskini azaltmak için hijyen kurallarına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Akantamoebkeratit",
+        "Doctor": "Göz Doktoru / Kornea",
+        "Description": "Akantamoebkeratit, Acanthamoeba amebasının neden olduğu nadir görülen bir göz enfeksiyonudur. Belirtileri arasında şiddetli göz ağrısı, kızarıklık, görme bulanıklığı ve hassasiyet bulunabilir.",
+        "Suggestions": [
+            "Kontakt lensleri doğru şekilde kullanın ve bakımını yapın.",
+            "Göz hijyenine dikkat edin ve enfeksiyon belirtileri gördüğünüzde hemen uzmana başvurun."
+        ]
+    },
+    {
+        "Disease": "Akut Apandisit",
+        "Doctor": "Cerrahi Uzman / Acil Tıp",
+        "Description": "Akut apandisit, apandisin iltihaplanması sonucu ortaya çıkan bir durumdur. Belirtileri arasında karın ağrısı, iştah kaybı, mide bulantısı ve kusma bulunabilir. Akut apandisit acil cerrahi müdahale gerektiren bir durumdur.",
+        "Suggestions": [
+            "Ağrıyı hafifletmek için doktorunuzun önerdiği ilaçları kullanın.",
+            "Cerrahi müdahale için hastaneye gidin ve doktorunuzun talimatlarına uyun."
+        ]
+    },
+    {
+        "Disease": "Akut Böbrek Yetmezliği",
+        "Doctor": "Nefrolog / Dahiliye",
+        "Description": "Akut böbrek yetmezliği, böbrek fonksiyonlarının hızla azalması sonucu ortaya çıkan bir durumdur. Belirtileri arasında azalmış idrar çıkışı, ödem, nefes darlığı ve yorgunluk bulunabilir.",
+        "Suggestions": [
+            "Sıvı alımına dikkat edin ve doktorunuzun önerdiği tedavi planına uyun.",
+            "Böbrek sağlığınızı korumak için düzenli kontroller yaptırın."
+        ]
+    },
+    {
+        "Disease": "Aort Anevrizması",
+        "Doctor": "Kardiyovasküler Cerrahi / Kalp Damar Cerrahisi",
+        "Description": "Aort anevrizması, aort duvarındaki zayıf bir nokta sonucu ortaya çıkan genişleme veya balonlaşmadır. Belirtileri arasında karın veya sırt ağrısı, nefes darlığı ve düşük kan basıncı bulunabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tetkikleri yaptırın ve tedavi seçeneklerini değerlendirin.",
+            "Sağlıklı bir yaşam tarzı benimseyin ve kan basıncını kontrol altında tutun."
+        ]
+    },
+    {
+        "Disease": "Kolon Kanseri",
+        "Doctor": "Gastroenterolog / Genel Cerrahi",
+        "Description": "Kolon kanseri, kalın bağırsak veya rektumda meydana gelen kanser türüdür. Belirtileri arasında karın ağrısı, kilo kaybı, kanlı dışkılama ve kabızlık veya ishal bulunabilir.",
+        "Suggestions": [
+            "Erken tanı için düzenli olarak kolonoskopi yaptırın.",
+            "Sağlıklı bir beslenme düzeni ve yaşam tarzı benimseyin."
+        ]
+    },
+    {
+        "Disease": "Demans",
+        "Doctor": "Nörolog / Psikiyatrist",
+        "Description": "Demans, bilişsel fonksiyonların kaybıyla karakterize edilen bir grup hastalığın genel adıdır. Alzheimer hastalığı, vasküler demans ve bunama ile ilişkili diğer durumlar demans örnekleridir.",
+        "Suggestions": [
+            "Belirtileri yönetmek ve ilerlemeyi yavaşlatmak için doktorunuzun önerdiği tedavi planını takip edin.",
+            "Hasta bakımını ve destek sistemini düzenleyin."
+        ]
+    },
+    {
+        "Disease": "Ereksiyon Bozukluğu",
+        "Doctor": "Ürolog / Cinsel Sağlık",
+        "Description": "Ereksiyon bozukluğu, sertleşme sorunu olarak da bilinir ve cinsel aktivite için yeterli bir ereksiyon elde edememe veya sürdürememe durumudur. Fiziksel veya psikolojik nedenlere bağlı olarak ortaya çıkabilir.",
+        "Suggestions": [
+            "Sağlık sorunlarınızı açıkça konuşun ve uygun tedavi seçeneklerini değerlendirin.",
+            "Düzenli egzersiz yapın, sağlıklı bir yaşam tarzı sürdürün ve stresi yönetin."
+        ]
+    },
+    {
+        "Disease": "Fibromiyalji",
+        "Doctor": "Romatolog / Fizik Tedavi",
+        "Description": "Fibromiyalji, yaygın vücut ağrısı, yorgunluk, uyku bozuklukları ve duyarlı noktalarla karakterize edilen bir kronik ağrı sendromudur.",
+        "Suggestions": [
+            "Ağrıyı yönetmek için egzersiz, fizik tedavi ve ilaç tedavisi gibi yöntemleri değerlendirin.",
+            "Stres yönetimine ve düzenli uyku alışkanlıklarına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Glokom",
+        "Doctor": "Göz Doktoru / Göz Hastalıkları",
+        "Description": "Glokom, optik sinir hasarına neden olan göz içi basıncının arttığı bir göz hastalığıdır. Göz içi basıncındaki bu artış, görme kaybına yol açabilir.",
+        "Suggestions": [
+            "Göz doktoruna veya göz hastalıkları uzmanına düzenli kontroller için başvurun.",
+            "Doktorunuzun önerdiği tedavi planına uyun ve göz damlalarını düzenli olarak kullanın.",
+            "Risk faktörlerini azaltmak için sağlıklı bir yaşam tarzı benimseyin."
+        ]
+    },
+    {
+        "Disease": "Parkinson Hastalığı",
+        "Doctor": "Nörolog / Hareket Bozuklukları",
+        "Description": "Parkinson hastalığı, beyin hücrelerinde hasara neden olan ve hareket kontrolünü etkileyen bir nörolojik bozukluktur. Belirtileri arasında titreme, kas sertliği ve yavaş hareket bulunabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın ve takip kontrollerini aksatmayın.",
+            "Fizik tedavi ve yaşam tarzı değişiklikleri ile belirtileri yönetmeye çalışın."
+        ]
+    },
+    {
+        "Disease": "Periferik Arter Hastalığı",
+        "Doctor": "Kardiyolog / Damar Cerrahisi",
+        "Description": "Periferik arter hastalığı, genellikle bacaklardaki arterlerde daralma veya tıkanıklık sonucu oluşan bir durumdur. Belirtileri arasında bacak ağrısı, yürüme güçlüğü ve soğuk ayaklar bulunabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği yaşam tarzı değişikliklerine uyun ve düzenli egzersiz yapın.",
+            "Sigara içiyorsanız bırakın ve kan basıncını kontrol altında tutun."
+        ]
+    },
+    {
+        "Disease": "Prostat Kanseri",
+        "Doctor": "Ürolog / Onkolog",
+        "Description": "Prostat kanseri, prostat bezinde meydana gelen anormal hücre büyümesi sonucu oluşan bir kanser türüdür. Belirtileri arasında idrar problemleri, sık idrara çıkma ve pelvik ağrı bulunabilir.",
+        "Suggestions": [
+            "Erken tanı için düzenli olarak prostat kontrolü yaptırın.",
+            "Sağlıklı bir beslenme düzeni benimseyin ve risk faktörlerini azaltmaya çalışın."
+        ]
+    },
+    {
+        "Disease": "Romatizmal Eklem İltihabı",
+        "Doctor": "Romatolog / Fizik Tedavi",
+        "Description": "Romatizmal eklem iltihabı, eklemleri etkileyen iltihaplı bir durumdur. Belirtileri arasında eklem ağrısı, şişlik, sertlik ve hareket kısıtlılığı bulunabilir.",
+        "Suggestions": [
+            "İltihabı kontrol altına almak için uygun ilaç tedavisini düşünün.",
+            "Egzersiz ve fizik tedavi ile eklem fonksiyonlarınızı güçlendirin."
+        ]
+    },
+    {
+        "Disease": "Mide Kanseri",
+        "Doctor": "Gastroenterolog / Genel Cerrahi",
+        "Description": "Mide kanseri, mide dokusunda anormal hücre büyümesi sonucu oluşan bir kanser türüdür. Belirtileri arasında hazımsızlık, kilo kaybı, mide ağrısı ve kanlı kusma bulunabilir.",
+        "Suggestions": [
+            "Tanı için endoskopi ve diğer uygun tetkikleri yaptırın.",
+            "Doktorunuzun önerdiği tedavi planına uyun ve sağlıklı bir beslenme düzeni benimseyin."
+        ]
+    },
+    {
+        "Disease": "Tiroid Kanseri",
+        "Doctor": "Endokrinolog / Genel Cerrahi",
+        "Description": "Tiroid kanseri, tiroid bezinde meydana gelen anormal hücre büyümesi sonucu oluşan bir kanser türüdür. Belirtileri arasında boyun ağrısı, yutma zorluğu ve şişlik bulunabilir.",
+        "Suggestions": [
+            "Uygun tetkikleri yaptırarak tanı alın.",
+            "Tedavi seçeneklerini doktorunuzla değerlendirin ve düzenli kontrol sağlayın."
+        ]
+    },
+    {
+        "Disease": "Ülseratif Kolit",
+        "Doctor": "Gastroenterolog / Dahiliye",
+        "Description": "Ülseratif kolit, kalın bağırsakta iltihaplanmaya neden olan bir bağırsak hastalığıdır. Belirtileri arasında karın ağrısı, kanlı ishal, kilo kaybı ve yorgunluk bulunabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaç tedavisini düzenli olarak uygulayın.",
+            "Sağlıklı bir diyet ve yaşam tarzı benimseyin, düzenli kontrolleri aksatmayın."
+        ]
+    },
+    {
+        "Disease": "Atopik Dermatit",
+        "Doctor": "Dermatolog / Alerji",
+        "Description": "Atopik dermatit, ciltte kızarıklık, kaşıntı ve kurulukla karakterize olan kronik bir cilt hastalığıdır. Alerjik reaksiyonlarla ilişkilidir.",
+        "Suggestions": [
+            "Kaşıntıyı azaltmak ve cildinizi korumak için uygun krem ve losyonları kullanın.",
+            "Potansiyel tetikleyicileri tanıyarak kaçının ve alerji testi yaptırın."
+        ]
+    },
+    {
+        "Disease": "Çölyak Hastalığı",
+        "Doctor": "Gastroenterolog / Diyetisyen",
+        "Description": "Çölyak hastalığı, glüten içeren gıdalara karşı bağışıklık sistemi reaksiyonu sonucu ortaya çıkan bir sindirim sistemi bozukluğudur. Belirtileri arasında karın ağrısı, ishal, kilo kaybı ve yorgunluk bulunabilir.",
+        "Suggestions": [
+            "Glüten içeren gıdalardan kaçının ve gluten içermeyen bir diyet benimseyin.",
+            "Vitamin ve mineral eksikliklerini önlemek için takviyeleri düzenli olarak kullanın."
+        ]
+    },
+    {
+        "Disease": "Kronik Böbrek Hastalığı",
+        "Doctor": "Nefrolog / Dahiliye",
+        "Description": "Kronik böbrek hastalığı, böbrek fonksiyonlarının zamanla azalmasıyla karakterize edilen bir durumdur. Belirtileri arasında yorgunluk, ödem, idrar renginde değişiklik ve hipertansiyon bulunabilir.",
+        "Suggestions": [
+            "Böbrek sağlığınızı korumak için düzenli kontroller yaptırın.",
+            "Tuz alımını sınırlayın, sağlıklı bir diyet benimseyin ve düzenli egzersiz yapın."
+        ]
+    },
+    {
+        "Disease": "Crohn Hastalığı",
+        "Doctor": "Gastroenterolog / Dahiliye",
+        "Description": "Crohn hastalığı, sindirim sisteminin herhangi bir bölgesini etkileyebilen kronik bir bağırsak iltihaplanmasıdır. Belirtileri arasında karın ağrısı, ishal, kilo kaybı ve yorgunluk bulunabilir.",
+        "Suggestions": [
+            "İlaç tedavisini düzenli olarak uygulayın ve doktorunuzun önerdiği diyeti takip edin.",
+            "Stresten kaçının ve düzenli kontrolleri aksatmayın."
+        ]
+    },
+    {
+        "Disease": "Graves Hastalığı",
+        "Doctor": "Endokrinolog / Dahiliye",
+        "Description": "Graves hastalığı, tiroid bezinin aşırı aktif olmasına neden olan otoimmün bir hastalıktır. Belirtileri arasında kilo kaybı, hızlı kalp atışı, titreme ve göz belirtileri bulunabilir.",
+        "Suggestions": [
+            "Tiroid fonksiyon testleri ve diğer uygun tetkikleri yaptırarak tanı alın.",
+            "Tedavi seçeneklerini doktorunuzla değerlendirin ve düzenli kontrolleri aksatmayın."
+        ]
+    },
+    {
+        "Disease": "Hashimoto Tiroiditi",
+        "Doctor": "Endokrinolog / Dahiliye",
+        "Description": "Hashimoto tiroiditi, tiroid bezine karşı vücudun bağışıklık sistemi tarafından saldırıya uğrayan otoimmün bir hastalıktır. Tiroid fonksiyonlarını azaltabilir.",
+        "Suggestions": [
+            "Tiroid fonksiyon testleri ve antikor testleri ile tanı alın.",
+            "İlaç tedavisi ve düzenli kontrollerle tiroid fonksiyonlarını kontrol altında tutun."
+        ]
+    },
+    {
+        "Disease": "Tip 1 Diyabet",
+        "Doctor": "Endokrinolog / Diabetolog",
+        "Description": "Tip 1 diyabet, pankreastaki beta hücrelerinin tahrip edilmesi sonucu insülin üretiminin durmasıdır. Belirtileri arasında aşırı susama, sık idrara çıkma ve kilo kaybı bulunabilir.",
+        "Suggestions": [
+            "İnsülin tedavisi ve yaşam tarzı değişiklikleri ile kan şekerini kontrol altına alın.",
+            "Düzenli olarak kan şekerinizi izleyin ve doktorunuzun önerdiği tedavi planına uyun."
+        ]
+    },
+    {
+        "Disease": "Tip 2 Diyabet",
+        "Doctor": "Endokrinolog / Diabetolog",
+        "Description": "Tip 2 diyabet, vücudun insülini etkili bir şekilde kullanamaması sonucu yüksek kan şekerine neden olan bir durumdur. Belirtileri arasında açlık, susuzluk ve yorgunluk bulunabilir.",
+        "Suggestions": [
+            "Diyet, egzersiz ve ilaç tedavisi ile kan şekerinizi kontrol altına alın.",
+            "Sağlıklı bir yaşam tarzı benimseyin ve düzenli kontrolleri aksatmayın."
+        ]
+    },
+    {
+        "Disease": "İdrar Taşları",
+        "Doctor": "Ürolog / Nefrolog",
+        "Description": "İdrar taşları, böbreklerde veya idrar yollarında oluşan katı parçacıklardır. Belirtileri arasında şiddetli bel ağrısı, idrar renginde değişiklik ve mide bulantısı bulunabilir.",
+        "Suggestions": [
+            "Görüntüleme testleri ile taşların boyutunu ve konumunu belirleyin.",
+            "Tedavi seçeneklerini doktorunuzla değerlendirin ve su tüketimini artırarak önleyici önlemler alın."
+        ]
+    },
+    {
+        "Disease": "Güneşe Maruz Kalmaya Bağlı Dermatit",
+        "Doctor": "Dermatolog",
+        "Description": "Güneş maruziyetine bağlı dermatit, ciltte güneşe karşı aşırı duyarlılık reaksiyonudur. Belirtileri arasında kızarıklık, kaşıntı ve döküntü bulunabilir.",
+        "Suggestions": [
+            "Güneşten koruyucu ürünler kullanın ve güneşe çıkarken koruyucu giysiler giyin.",
+            "Cildinizi nemlendirin ve maruziyeti azaltmak için gölgeli alanlarda kalın."
+        ]
+    },
+    {
+        "Disease": "Uyuz",
+        "Doctor": "Dermatolog / Enfeksiyon Hastalıkları",
+        "Description": "Uyuz, cildin üst tabakasında kaşıntılı bir enfeksiyondur. Belirtileri arasında kaşıntı, kızarıklık ve kabarcıklar bulunabilir.",
+        "Suggestions": [
+            "Uygun ilaç tedavisi ile enfeksiyonu kontrol altına alın.",
+            "Kişisel hijyeninize dikkat edin ve enfekte kişilerden kaçının."
+        ]
+    },
+    {
+        "Disease": "Egzama",
+        "Doctor": "Dermatolog",
+        "Description": "Egzama, ciltte kaşıntılı, kızarık ve iltihaplı lezyonlara neden olan bir cilt hastalığıdır. Genellikle alerjik reaksiyonlar veya cilt kuruluğu sonucu ortaya çıkar.",
+        "Suggestions": [
+            "Egzama tipinize uygun tedavi seçeneklerini değerlendirin.",
+            "Cildinizi nemli tutun, tahriş edici maddelerden kaçının ve doktorunuzun önerdiği tedaviyi düzenli olarak uygulayın."
+        ]
+    },
+    {
+        "Disease": "Kronik Baş Ağrısı",
+        "Doctor": "Nörolog",
+        "Description": "Kronik baş ağrısı, 15 günden fazla devam eden sürekli baş ağrısıdır. Migren, gerilim tipi baş ağrısı veya diğer nedenlere bağlı olabilir.",
+        "Suggestions": [
+            "Baş ağrısının nedenini belirlemek için gerekli tetkikleri yaptırın.",
+            "Doktorunuzun önerdiği tedavi planına uyun ve baş ağrısını tetikleyen faktörlerden kaçının."
+        ]
+    },
+    {
+        "Disease": "Lupus",
+        "Doctor": "Romatolog",
+        "Description": "Lupus, bağışıklık sisteminin vücuda zarar vermesine neden olan otoimmün bir hastalıktır. Cilt, eklemler, böbrekler, kalp ve diğer organları etkileyebilir.",
+        "Suggestions": [
+            "Kan testleri ve diğer tanı yöntemleri ile lupusu teşhis edin.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın ve kontrol randevularını aksatmayın."
+        ]
+    },
+    {
+        "Disease": "Endometriozis",
+        "Doctor": "Jinekolog",
+        "Description": "Endometriozis, rahim iç tabakasının dışında büyümesi durumudur. Bu durum, pelvik ağrı, adet düzensizlikleri ve kısırlığa neden olabilir.",
+        "Suggestions": [
+            "Muayene ve görüntüleme testleri ile endometriozisi teşhis edin.",
+            "Tedavi seçeneklerini doktorunuzla görüşün ve düzenli kontrolleri aksatmayın."
+        ]
+    },
+    {
+        "Disease": "Siyatik",
+        "Doctor": "Ortopedi / Nörolog",
+        "Description": "Siyatik, siyatik sinirin sıkışması sonucu ortaya çıkan bel ağrısı ve bacak ağrısıdır. Genellikle belirli bir bacak tarafında ağrı ve uyuşma ile karakterizedir.",
+        "Suggestions": [
+            "Muayene ve görüntüleme testleri ile siyatik tanısı alın.",
+            "Fizik tedavi, ilaç tedavisi veya cerrahi seçenekleri doktorunuzla değerlendirin."
+        ]
+    },
+    {
+        "Disease": "Analjeziklere Bağlı Zehirlenme",
+        "Doctor": "Acil Servis / Toksikoloji",
+        "Description": "Analjeziklere bağlı zehirlenme, aşırı miktarda ağrı kesici kullanımına bağlı olarak ortaya çıkan bir durumdur. Ciddi sağlık sorunlarına neden olabilir.",
+        "Suggestions": [
+            "Acil servise başvurun veya bir zehir kontrol merkezi ile iletişime geçin.",
+            "Derhal tıbbi yardım alın.",
+            "Kesin tedaviyi belirlemek için sağlık profesyonellerinin önerilerini takip edin."
+        ]
+    },
+    {
+        "Disease": "Kıl Kurdu Enfeksiyonu",
+        "Doctor": "Dahiliye / Gastroenterolog",
+        "Description": "Kıl kurdu enfeksiyonu, ince bağırsaklarda yaşayan küçük parazitlerin neden olduğu bir enfeksiyondur. Genellikle karın ağrısı ve kaşıntıya neden olur.",
+        "Suggestions": [
+            "Stool testi veya diğer uygun testlerle enfeksiyonu teşhis edin.",
+            "Antiparaziter ilaçlar ve diğer tedavi seçenekleri ile enfeksiyonu kontrol altına alın."
+        ]
+    },
+    {
+        "Disease": "Üretral Valfler",
+        "Doctor": "Ürolog",
+        "Description": "Üretral valfler, idrarın normal akışını engelleyen bir durumdur. Bu durum genellikle erkek çocuklarda görülür.",
+        "Suggestions": [
+            "Gerekli görüntüleme testleri ile üretral valfleri teşhis edin.",
+            "Cerrahi müdahale ile valfleri düzeltmek için tedavi planı oluşturun."
+        ]
+    },
+    {
+        "Disease": "Saçkıran",
+        "Doctor": "Dermatolog",
+        "Description": "Saçkıran, vücudun kendi bağışıklık sistemi tarafından saç köklerine saldırması sonucu ortaya çıkan bir saç dökülme durumudur.",
+        "Suggestions": [
+            "Saçkıranın şiddetini ve yaygınlığını belirlemek için muayene edilin.",
+            "Topikal tedaviler, kortikosteroidler veya diğer ilaçlar ile tedavi seçeneklerini değerlendirin."
+        ]
+    },
+    {
+        "Disease": "Kronik Sinüzit",
+        "Doctor": "Kulak Burun Boğaz (KBB)",
+        "Description": "Kronik sinüzit, sinüs boşluklarının 12 haftadan uzun süren iltihaplanmasıdır. Burun tıkanıklığı, yüz ağrısı ve baş ağrısı gibi belirtilere neden olabilir.",
+        "Suggestions": [
+            "Görüntüleme testleri ve muayene ile sinüzit teşhisi alın.",
+            "Doktorunuzun önerdiği tedavi planını uygulayın ve semptomların kontrol altında tutulmasını sağlayın."
+        ]
+    },
+    {
+        "Disease": "Kolesteatom",
+        "Doctor": "Kulak Burun Boğaz (KBB)",
+        "Description": "Kolesteatom, orta kulağın arkasında veya mastoid kemikte oluşan, genellikle orta kulak iltihabının bir komplikasyonu olan bir deri kistidir.",
+        "Suggestions": [
+            "Muayene ve görüntüleme testleri ile kolesteatomu teşhis edin.",
+            "Cerrahi müdahale genellikle gereklidir, doktorunuzun önerilerine uyarak tedavi planını belirleyin."
+        ]
+    },
+    {
+        "Disease": "Bağırsak Düğümlenmesi",
+        "Doctor": "Genel Cerrahi",
+        "Description": "Bağırsak düğümlenmesi, bağırsakların kendi etrafında dönmesi sonucu oluşan bir durumdur. Bu durum, bağırsaklardaki kan akışını engelleyebilir ve ciddi bir sağlık sorununa yol açabilir.",
+        "Suggestions": [
+            "Gerekli görüntüleme testleri ile bağırsak düğümlenmesini teşhis edin.",
+            "Acil cerrahi müdahale genellikle gereklidir, doktorunuzun önerilerine hemen uyarak tedavi olun."
+        ]
+    },
+    {
+        "Disease": "Hemartroz",
+        "Doctor": "Ortopedi",
+        "Description": "Hemartroz, eklem içinde kan birikimi ile karakterize edilen bir durumdur. Genellikle travma, enfeksiyon veya romatoid artrit gibi nedenlere bağlı olarak ortaya çıkabilir.",
+        "Suggestions": [
+            "Muayene ve görüntüleme testleri ile hemartrozu teşhis edin.",
+            "Tedavi seçeneklerini doktorunuzla görüşün, genellikle dinlenme, ilaçlar veya cerrahi müdahale gerekebilir."
+        ]
+    },
+    {
+        "Disease": "Göz Kapağı Kisti",
+        "Doctor": "Göz Doktoru (Oftalmolog)",
+        "Description": "Göz kapağı kisti, göz kapağı içinde oluşan sıvı dolu bir kesedir. Göz kapağı kenarında şişlik, kızarıklık ve ağrıya neden olabilir.",
+        "Suggestions": [
+            "Muayene ile göz kapağı kistini teşhis edin.",
+            "Doktorunuzun önerdiği tedavi seçeneklerini uygulayın, bazen cerrahi müdahale gerekebilir."
+        ]
+    },
+    {
+        "Disease": "Balanit",
+        "Doctor": "Ürolog / Dermatolog",
+        "Description": "Balanit, penis başının iltihaplanmasıdır. Genellikle enfeksiyon, alerji veya cilt irritasyonu nedeniyle ortaya çıkar.",
+        "Suggestions": [
+            "Muayene ile balaniti teşhis edin.",
+            "Nedeni belirleyerek uygun tedavi seçeneklerini doktorunuzla görüşün."
+        ]
+    },
+    {
+        "Disease": "Bağırsak Malabsorbsiyonu",
+        "Doctor": "Gastroenterolog",
+        "Description": "Bağırsak malabsorbsiyonu, bağırsakların besinleri yeterince emmekte başarısız olduğu durumdur. Bu durum sindirim sorunlarına ve beslenme eksikliklerine neden olabilir.",
+        "Suggestions": [
+            "Testler ve görüntüleme yöntemleri ile malabsorbsiyonu teşhis edin.",
+            "Doktorunuzun önerdiği diyet ve tedavi planını takip edin."
+        ]
+    },
+    {
+        "Disease": "Faranjit",
+        "Doctor": "Kulak Burun Boğaz (KBB)",
+        "Description": "Faranjit, boğazın arkasındaki mukozanın iltihaplanmasıdır. Boğaz ağrısı, öksürük ve boğazda tahrişe neden olabilir.",
+        "Suggestions": [
+            "Muayene ile faranjiti teşhis edin.",
+            "Doktorunuzun önerdiği ilaçları kullanın, dinlenin ve sıvı alımını artırın."
+        ]
+    },
+    {
+        "Disease": "Gastroparezi",
+        "Doctor": "Gastroenterolog",
+        "Description": "Gastroparezi, mide kaslarının normal şekilde çalışmaması durumudur. Bu durum mide boşalımını etkileyebilir, mide ağrısı ve hazımsızlık gibi belirtilere yol açabilir.",
+        "Suggestions": [
+            "Testler ve görüntüleme yöntemleri ile gastropareziyi teşhis edin.",
+            "Doktorunuzun önerdiği diyet ve tedavi planını uygulayın."
+        ]
+    },
+    {
+        "Disease": "Baş ve Boyun Kanseri",
+        "Doctor": "Onkolog / Kulak Burun Boğaz (KBB)",
+        "Description": "Baş ve boyun kanseri, baş veya boyun bölgesinde oluşan kötü huylu tümörlerdir. Sigara içme, alkol tüketimi ve HPV enfeksiyonu risk faktörleri arasında yer alabilir.",
+        "Suggestions": [
+            "Görüntüleme testleri ve biyopsi ile kanseri teşhis edin.",
+            "Doktorunuzun önerdiği tedavi planını uygulayın, cerrahi, radyasyon veya kemoterapi gibi yöntemler kullanılabilir."
+        ]
+    },
+    {
+        "Disease": "Kronik Hastalık Anemisi",
+        "Doctor": "Hematolog",
+        "Description": "Kronik hastalık anemisi, kronik bir hastalığın uzun süre devam etmesi sonucu ortaya çıkan bir tür anemidir. Demir eksikliği, inflamasyon ve diğer faktörlerle ilişkilidir.",
+        "Suggestions": [
+            "Kan testleri ile anemiyi değerlendirin.",
+            "Altta yatan hastalığın tedavisi ve demir takviyeleri gibi uygun tedavileri doktorunuzla belirleyin."
+        ]
+    },
+    {
+        "Disease": "Kızıl Hastalığı",
+        "Doctor": "Romatolog",
+        "Description": "Kızıl hastalığı, deri ve eklem iltihaplanmasıyla karakterize olan bir romatolojik hastalıktır. Alevlenmeler ve remisyon dönemleri içerir.",
+        "Suggestions": [
+            "Muayene ve tetkikler ile kızıl hastalığını teşhis edin.",
+            "Doktorunuzun önerdiği ilaçlar ve yaşam tarzı değişiklikleri ile semptomları kontrol altında tutun."
+        ]
+    },
+    {
+        "Disease": "Madde Bağımlılığı",
+        "Doctor": "Psikiyatrist / Bağımlılık",
+        "Description": "Madde bağımlılığı, bir maddeye bağımlılık geliştirme durumudur. Bu durum fiziksel ve psikolojik sağlık sorunlarına yol açabilir.",
+        "Suggestions": [
+            "Detoksifikasyon ve terapi gibi tedavi seçeneklerini değerlendirin.",
+            "Doktorunuzun önerdiği tedavi planına uyarak bağımlılığı yönetin."
+        ]
+    },
+    {
+        "Disease": "Hipertansif Kalp Hastalığı",
+        "Doctor": "Kardiyolog",
+        "Description": "Hipertansif kalp hastalığı, yüksek kan basıncına bağlı olarak kalp üzerindeki uzun vadeli etkileri ifade eder. Bu durum kalp krizi, kalp yetmezliği ve diğer komplikasyonlara neden olabilir.",
+        "Suggestions": [
+            "Kan basıncını düzenli olarak kontrol edin.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın ve yaşam tarzı değişiklikleri yapın."
+        ]
+    },
+    {
+        "Disease": "Ansefalit",
+        "Doctor": "Nörolog",
+        "Description": "Ansefalit, beyin dokusunun iltihaplanmasıdır. Viral enfeksiyonlar veya bağışıklık sistemi sorunları ansefalite neden olabilir.",
+        "Suggestions": [
+            "Görüntüleme testleri ve diğer tetkikler ile ansefaliti teşhis edin.",
+            "Doktorunuzun önerdiği antiviral ilaçlar veya diğer tedavi yöntemlerini uygulayın."
+        ]
+    },
+    {
+        "Disease": "Kas Spazmı",
+        "Doctor": "Nörolog / Ortopedi",
+        "Description": "Kas spazmı, kasların ani ve istemsiz kasılmasıdır. Bu durum birçok nedenden kaynaklanabilir, örneğin kas yorgunluğu, su kaybı veya bazı nörolojik sorunlar.",
+        "Suggestions": [
+            "Muayene ve gerekirse görüntüleme testleri ile kas spazmını değerlendirin.",
+            "Tedavi planınızı doktorunuzla belirleyin, dinlenme, fizik tedavi veya ilaçlar kullanılabilir."
+        ]
+    },
+    {
+        "Disease": "Böbrek Yetmezliği",
+        "Doctor": "Nefrolog",
+        "Description": "Böbrek yetmezliği, böbreklerin normal işlevlerini yerine getirememesi durumudur. Kronik veya akut olabilir ve ciddi sağlık sorunlarına yol açabilir.",
+        "Suggestions": [
+            "Kan ve idrar testleri ile böbrek yetmezliğini değerlendirin.",
+            "Doktorunuzun önerdiği tedavi planını takip edin, diyaliz veya böbrek nakli gibi seçenekler değerlendirilebilir."
+        ]
+    },
+    {
+        "Disease": "Diş Çürüğü",
+        "Doctor": "Diş Hekimi",
+        "Description": "Diş çürüğü, diş minesinin erozyonu sonucu oluşan bakteriyel bir enfeksiyondur. Diş ağrısı, hassasiyet ve çürük belirtilere neden olabilir.",
+        "Suggestions": [
+            "Muayene ile diş çürüğünü teşhis edin.",
+            "Diş çürüğü tedavisi, genellikle dolgu veya diş çekimi gibi müdahaleleri içerir."
+        ]
+    },
+    {
+        "Disease": "Burun Bozukluğu",
+        "Doctor": "Kulak Burun Boğaz (KBB)",
+        "Description": "Burun bozukluğu, burun septumunun eğriliği veya diğer anatomik sorunlar nedeniyle ortaya çıkan bir durumdur. Burun tıkanıklığına, solunum zorluğuna neden olabilir.",
+        "Suggestions": [
+            "Muayene ve görüntüleme testleri ile burun bozukluğunu değerlendirin.",
+            "Doktorunuzun önerdiği tedavi planını uygulayın, cerrahi müdahale bazen gerekebilir."
+        ]
+    },
+    {
+        "Disease": "Hemolitik Anemi",
+        "Doctor": "Hematolog",
+        "Description": "Hemolitik anemi, kırmızı kan hücrelerinin anormal bir hızda yok olduğu bir durumdur. Bu durum, genetik faktörler, otoimmün hastalıklar veya enfeksiyonlar nedeniyle olabilir.",
+        "Suggestions": [
+            "Kan testleri ile hemolitik anemiyi değerlendirin.",
+            "Altta yatan nedeni belirleyerek uygun tedavi planını doktorunuzla belirleyin."
+        ]
+    },
+    {
+        "Disease": "A Vitamini Eksikliği",
+        "Doctor": "Dahiliye / Beslenme",
+        "Description": "A vitamini eksikliği, vücudun yeterli A vitamini alamaması durumudur. Göz, cilt ve bağışıklık sistemi sağlığını etkileyebilir.",
+        "Suggestions": [
+            "Kan testleri ile A vitamini eksikliğini değerlendirin.",
+            "Doktorunuzun önerdiği takviyeleri kullanın ve A vitamini açısından zengin besinlere yönelin."
+        ]
+    },
+    {
+        "Disease": "Belsoğukluğu",
+        "Doctor": "Ürolog / Cinsel Sağlık",
+        "Description": "Belsoğukluğu, cinsel yolla bulaşan bir enfeksiyon olan klamidya veya gonore bakterilerinin neden olduğu bir hastalıktır. Belirtiler arasında ağrılı idrar, akıntı ve karın ağrısı bulunabilir.",
+        "Suggestions": [
+            "Muayene ve testlerle belsoğukluğunu teşhis edin.",
+            "Doktorunuzun önerdiği antibiyotik tedavisini tamamlayın ve cinsel partnerinizi bilgilendirin."
+        ]
+    },
+    {
+        "Disease": "Ependimom",
+        "Doctor": "Nöroşirurji",
+        "Description": "Ependimom, merkezi sinir sisteminde (beyin ve omurilik) oluşan bir tür tümördür. Belirtiler, baş ağrısı, bulantı, kusma ve dengesizlik içerebilir.",
+        "Suggestions": [
+            "Görüntüleme testleri ile ependimomu değerlendirin.",
+            "Doktorunuzun önerdiği tedavi planını uygulayın, cerrahi, radyoterapi veya kemoterapi gibi yöntemler kullanılabilir."
+        ]
+    },
+    {
+        "Disease": "Toksine Bağlı Hepatit",
+        "Doctor": "Gastroenterolog",
+        "Description": "Toksine bağlı hepatit, karaciğerin toksinlere maruz kalması sonucu oluşan iltihaplanmadır. İlaçlar veya kimyasal maddelere bağlı olabilir.",
+        "Suggestions": [
+            "Kan testleri ve görüntüleme yöntemleri ile hepatiti değerlendirin.",
+            "Toksine maruz kalma kaynağını belirleyin ve doktorunuzun önerdiği tedaviyi uygulayın."
+        ]
+    },
+    {
+        "Disease": "Uçuk",
+        "Doctor": "Dermatolog / Enfeksiyon Hastalıkları",
+        "Description": "Uçuk, herpes simpleks virüsünün neden olduğu bir enfeksiyondur. Genellikle dudaklarda veya cinsel organlarda soğuk algınlığına benzer kabarcıklar şeklinde ortaya çıkar.",
+        "Suggestions": [
+            "Muayene ile uçuğu teşhis edin.",
+            "Antiviral ilaçlar veya topikal tedaviler ile uçuğu yönetin, tekrarlayan durumlarda profilaktik tedaviler de düşünülebilir."
+        ]
+    },
+    {
+        "Disease": "Meme Kanseri",
+        "Doctor": "Onkolog / Genel Cerrahi",
+        "Description": "Meme kanseri, meme dokusunda kötü huylu bir tümörün gelişmesidir. Erken teşhis önemlidir ve tedavi seçenekleri arasında cerrahi, radyasyon ve kemoterapi bulunabilir.",
+        "Suggestions": [
+            "Meme muayenesi, mamografi ve biyopsi ile kanseri teşhis edin.",
+            "Doktorunuzun önerdiği tedavi planını uygulayın, takip ve destek tedavilerini de düşünün."
+        ]
+    },
+    {
+        "Disease": "Testis Kanseri",
+        "Doctor": "Üroloji",
+        "Description": "Testis kanseri, testislerde (erkek üreme organları) başlayan bir kanser türüdür.",
+        "Suggestions": [
+            "Düzenli olarak testis muayenesi yapın.",
+            "Risk faktörlerini bilmek önemlidir.",
+            "Sağlıklı bir yaşam tarzını sürdürün."
+        ]
+    },
+    {
+        "Disease": "Anksiyete",
+        "Doctor": "Psikiyatri",
+        "Description": "Anksiyete, aşırı endişe ve korku ile karakterize edilen bir mental sağlık durumudur.",
+        "Suggestions": [
+            "Düzenli olarak nefes egzersizleri yapın.",
+            "Stres yönetimi tekniklerini öğrenin.",
+            "Profesyonel yardım almayı düşünün."
+        ]
+    },
+    {
+        "Disease": "Burun Apsesi",
+        "Doctor": "Kulak Burun Boğaz",
+        "Description": "Burun apsesi, burun içindeki bir boşlukta oluşan iltihaplanmış bir kist veya abseyi ifade eder.",
+        "Suggestions": [
+            "Antibiyotik tedavisini tam olarak uygulayın.",
+            "Sıcak kompres uygulayarak rahatlayın.",
+            "Doktora danışmadan ilaç kullanmaktan kaçının."
+        ]
+    },
+    {
+        "Disease": "Lösemi",
+        "Doctor": "Hematoloji",
+        "Description": "Lösemi, kan hücrelerindeki anormal büyüme ve çoğalma ile karakterize edilen bir kan kanseri türüdür.",
+        "Suggestions": [
+            "Kemoterapi ve diğer tedavi seçenekleri hakkında bilgi edinin.",
+            "Düzenli kan testleri yaptırın.",
+            "Doktorunuzun önerdiği tedavi planına uyun."
+        ]
+    },
+    {
+        "Disease": "Farenjit",
+        "Doctor": "Kulak Burun Boğaz",
+        "Description": "Farenjit, boğazın arkasında bulunan lenfoid dokunun iltihaplanmasıdır.",
+        "Suggestions": [
+            "Sıcak tuzlu su gargarası yapın.",
+            "Dinlenmeye önem verin.",
+            "Sigara ve irritan maddelerden kaçının."
+        ]
+    },
+    {
+        "Disease": "Siringomiyeli",
+        "Doctor": "Nöroloji",
+        "Description": "Siringomiyeli, omurilikte anormal bir boşluk oluşması durumudur.",
+        "Suggestions": [
+            "Belirtileri takip ederek düzenli doktor kontrollerine gidin.",
+            "Fizik tedavi seçeneklerini değerlendirin.",
+            "Cerrahi müdahale gerekebilir, doktorunuza danışın."
+        ]
+    },
+    {
+        "Disease": "Pulmoner Fibroz",
+        "Doctor": "Göğüs Hastalıkları",
+        "Description": "Pulmoner fibroz, akciğer dokusunun zarar gördüğü ve kalınlaştığı bir durumdur.",
+        "Suggestions": [
+            "Sigara içmeyin ve dumanlardan kaçının.",
+            "Solunum egzersizleri yapın.",
+            "Düzenli olarak doktor kontrolünde olun."
+        ]
+    },
+    {
+        "Disease": "Gut",
+        "Doctor": "Romatoloji",
+        "Description": "Gut, vücutta ürik asidin birikmesi sonucu eklem iltihaplarına neden olan bir hastalıktır.",
+        "Suggestions": [
+            "Diyetinize dikkat edin, purin içeren yiyeceklerden kaçının.",
+            "İçtiğiniz sıvı miktarına özen gösterin.",
+            "İlaç tedavisi için doktorunuza danışın."
+        ]
+    },
+    {
+        "Disease": "Gıda Alerjisi",
+        "Doctor": "Allerji ve İmmünoloji",
+        "Description": "Gıda alerjisi, vücudun belirli gıdalara karşı aşırı duyarlılık göstermesi durumudur.",
+        "Suggestions": [
+            "Alerjen gıdalardan kaçının.",
+            "Acil durumlar için epinefrin taşıyın.",
+            "Doktorunuza düzenli olarak kontrole gidin."
+        ]
+    },
+    {
+        "Disease": "Adet Öncesi Gerginlik Sendromu",
+        "Doctor": "Kadın Hastalıkları ve Doğum",
+        "Description": "Adet öncesi gerginlik sendromu, adet öncesinde ortaya çıkan duygusal ve fiziksel belirtilerle karakterizedir.",
+        "Suggestions": [
+            "Düzenli egzersiz yapın.",
+            "Sağlıklı bir diyet sürdürün.",
+            "Stres yönetimi tekniklerini öğrenin."
+        ]
+    },
+    {
+        "Disease": "Panik Atak",
+        "Doctor": "Psikiyatri",
+        "Description": "Panik atak, aniden ortaya çıkan yoğun korku ve panik hissi ile karakterizedir.",
+        "Suggestions": [
+            "Nefes kontrolü tekniklerini uygulayın.",
+            "Panik atak belirtileri hakkında bilgi edinin.",
+            "Profesyonel yardım almayı düşünün."
+        ]
+    },
+    {
+        "Disease": "B12 Vitamini Eksikliği",
+        "Doctor": "Dahiliye",
+        "Description": "B12 vitamini eksikliği, vücudun yeterli miktarda B12 vitamini alamaması durumudur.",
+        "Suggestions": [
+            "B12 vitamini içeren yiyecekleri tüketin.",
+            "Doktorunuzun önerdiği takviyeleri kullanın.",
+            "Düzenli kan testleri yaptırarak takibinizi yapın."
+        ]
+    },
+    {
+        "Disease": "Mesane Bozukluğu",
+        "Doctor": "Üroloji",
+        "Description": "Mesane bozukluğu, mesane işlevi ile ilgili sorunları ifade eden bir durumdur.",
+        "Suggestions": [
+            "Sıvı alımına dikkat edin.",
+            "Pelvik taban egzersizleri yapın.",
+            "Doktorunuzun önerdiği tedavi planına uyun."
+        ]
+    },
+    {
+        "Disease": "Bitler",
+        "Doctor": "Dermatoloji",
+        "Description": "Bitler, saç derisinde yaşayan küçük parazitlerdir ve kaşıntıya neden olabilirler.",
+        "Suggestions": [
+            "Bit ilaçlarını kullanın.",
+            "Kişisel eşyaları paylaşmaktan kaçının.",
+            "Ev ve eşyaları temizleyin ve yıkayın."
+        ]
+    },
+    {
+        "Disease": "Antidepresanlara Bağlı Zehirlenme",
+        "Doctor": "Acil Tıp",
+        "Description": "Antidepresanlara bağlı zehirlenme, aşırı miktarda antidepresan kullanımından kaynaklanan bir durumdur.",
+        "Suggestions": [
+            "Hemen acil servise başvurun.",
+            "Kullanılan ilaçları belirtin.",
+            "Sakinleşmek ve rahatlamak için uzman yardımı alın."
+        ]
+    },
+    {
+        "Disease": "Magnezyum Eksikliği",
+        "Doctor": "Dahiliye",
+        "Description": "Magnezyum eksikliği, vücudun yeterli miktarda magnezyum alamaması durumudur.",
+        "Suggestions": [
+            "Magnezyum açısından zengin gıdalar tüketin.",
+            "Magnezyum takviyelerini kullanın.",
+            "Doktorunuzun önerilerini takip edin."
+        ]
+    },
+    {
+        "Disease": "Siroz",
+        "Doctor": "Gastroenteroloji",
+        "Description": "Siroz, karaciğerin uzun vadeli hasarı sonucu oluşan bir durumdur ve normal karaciğer dokusunun skar dokusu ile değişmesini içerir.",
+        "Suggestions": [
+            "Alkol tüketimini sınırlayın veya bırakın.",
+            "Sağlıklı bir diyet sürdürün.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın."
+        ]
+    },
+    {
+        "Disease": "Kırık",
+        "Doctor": "Ortopedi",
+        "Description": "Kırık, bir kemikteki bütünlüğün bozulduğu bir durumdur.",
+        "Suggestions": [
+            "Kırılan bölgeyi sabitlemek için gerekli tedaviyi alın.",
+            "Doktorunuzun önerdiği fizik tedaviye uyun.",
+            "İyileşme sürecinde dinlenmeye özen gösterin."
+        ]
+    },
+    {
+        "Disease": "Hipertansif Hastalık",
+        "Doctor": "Kardiyoloji",
+        "Description": "Hipertansif hastalık, kan basıncının sürekli olarak yüksek olması durumudur.",
+        "Suggestions": [
+            "Tuz tüketimini azaltın.",
+            "Düzenli egzersiz yapın.",
+            "Doktorunuzun reçete ettiği ilaçları düzenli olarak kullanın."
+        ]
+    },
+    {
+        "Disease": "Ruhsal Depresyon",
+        "Doctor": "Psikiyatri",
+        "Description": "Ruhsal depresyon, kişinin duygu durumu, düşünce ve davranışlarında anormal değişikliklere neden olan bir mental sağlık durumudur.",
+        "Suggestions": [
+            "Profesyonel yardım almayı düşünün.",
+            "Düzenli olarak terapi seanslarına katılın.",
+            "Günlük aktivitelerinize düzenli olarak devam edin."
+        ]
+    },
+    {
+        "Disease": "Koroner Arterioskleroz",
+        "Doctor": "Kardiyoloji",
+        "Description": "Koroner arterioskleroz, koroner arterlerin daralması veya tıkanması sonucu oluşan bir kalp damar hastalığıdır.",
+        "Suggestions": [
+            "Sağlıklı bir diyet sürdürün.",
+            "Düzenli egzersiz yapın.",
+            "Sigara içmeyin ve alkol tüketimini sınırlayın."
+        ]
+    },
+    {
+        "Disease": "Kronik Kalp Yetmezliği",
+        "Doctor": "Kardiyoloji",
+        "Description": "Kronik kalp yetmezliği, kalbin vücuda yeterli miktarda kan pompalayamaması durumudur.",
+        "Suggestions": [
+            "Düzenli olarak ilaçlarınızı kullanın.",
+            "Sıvı ve tuz alımını kontrol altında tutun.",
+            "Doktorunuzun önerdiği yaşam tarzı değişikliklerine uyun."
+        ]
+    },
+    {
+        "Disease": "Serebrovasküler Kaza",
+        "Doctor": "Nöroloji",
+        "Description": "Serebrovasküler kaza, beyin damarlarının tıkanması veya kanaması sonucu oluşan bir durumdur.",
+        "Suggestions": [
+            "Yüksek tansiyonu kontrol altında tutun.",
+            "Düzenli egzersiz yapın.",
+            "Sağlıklı bir diyet sürdürün."
+        ]
+    },
+    {
+        "Disease": "Miyokardiyal Enfarktüs",
+        "Doctor": "Kardiyoloji",
+        "Description": "Miyokardiyal enfarktüs, kalp kasının bir bölümüne kan akışının aniden kesilmesi sonucu oluşan bir durumdur.",
+        "Suggestions": [
+            "Acil servise hemen başvurun.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Sigara içmeyin ve sağlıklı bir diyet sürdürün."
+        ]
+    },
+    {
+        "Disease": "Hiperkolesterolemi",
+        "Doctor": "Kardiyoloji veya İç Hastalıkları",
+        "Description": "Hiperkolesterolemi, kandaki kolesterol seviyelerinin yüksek olması durumudur ve kalp hastalıkları için bir risk faktörüdür.",
+        "Suggestions": [
+            "Sağlıklı bir diyet sürdürün.",
+            "Düzenli egzersiz yapın.",
+            "İlaç tedavisi için doktorunuzla görüşün."
+        ]
+    },
+    {
+        "Disease": "Enfeksiyon",
+        "Doctor": "İç Hastalıkları veya Enfeksiyon Hastalıkları",
+        "Description": "Enfeksiyon, vücuda zarar veren mikroorganizmaların neden olduğu bir hastalık durumudur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği antibiyotikleri düzenli olarak kullanın.",
+            "İyi hijyen uygulamalarına dikkat edin.",
+            "İmmün sistem güçlendirici önlemleri değerlendirin."
+        ]
+    },
+    {
+        "Disease": "Kronik Obstrüktif Akciğer Hastalığı",
+        "Doctor": "Göğüs Hastalıkları veya İç Hastalıkları",
+        "Description": "Kronik obstrüktif akciğer hastalığı, genellikle sigara içimi nedeniyle oluşan ve solunum yollarının daralmasıyla karakterizedir.",
+        "Suggestions": [
+            "Sigara içmeyi bırakın.",
+            "İlaç tedavisi ve solunum egzersizleri uygulayın.",
+            "Düzenli kontrollerde doktorunuzla iletişimde olun."
+        ]
+    },
+    {
+        "Disease": "Bilinç Bulanıklığı",
+        "Doctor": "Nöroloji veya Acil Tıp",
+        "Description": "Bilinç bulanıklığı, kişinin net bir şekilde düşünememesi veya çevresine uygun tepkiler verememesi durumudur.",
+        "Suggestions": [
+            "Acil tıbbi yardım alın.",
+            "Doktorunuzun önerdiği testlere tabi tutulun.",
+            "Temel sağlık faktörlerine dikkat edin (kan basıncı, kan şekeri vb.)."
+        ]
+    },
+    {
+        "Disease": "Dejeneratif Poliartrit",
+        "Doctor": "Romatoloji",
+        "Description": "Dejeneratif poliartrit, eklemlerdeki dejeneratif değişikliklerle karakterize olan bir romatolojik hastalıktır.",
+        "Suggestions": [
+            "Düzenli egzersiz yapın.",
+            "Sağlıklı kilonuzu koruyun.",
+            "İlaç tedavisi ve fizik tedavi seçeneklerini değerlendirin."
+        ]
+    },
+    {
+        "Disease": "Malign Neoplazmalar",
+        "Doctor": "Onkoloji",
+        "Description": "Malign neoplazmalar, kanser hücrelerinin kontrolsüz büyümesini içeren bir dizi hastalığı kapsar.",
+        "Suggestions": [
+            "Erken teşhis için düzenli kontrolleri ihmal etmeyin.",
+            "Tedavi seçenekleri hakkında bilgi alın.",
+            "Doktorunuzun önerdiği tedavi planına uyun."
+        ]
+    },
+    {
+        "Disease": "Kazanılmış Bağışıklık Sendromu",
+        "Doctor": "İmmünoloji veya Enfeksiyon Hastalıkları",
+        "Description": "Kazanılmış bağışıklık sendromu, bağışıklık sisteminin zayıflamasına neden olan bir durumdur.",
+        "Suggestions": [
+            "İmmün sistemi güçlendirmek için uygun tedavileri düşünün.",
+            "Düzenli olarak doktor kontrolünde olun.",
+            "Hijyen kurallarına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Selülit",
+        "Doctor": "Dermatoloji veya Plastik Cerrahi",
+        "Description": "Selülit, deri altındaki yağ hücrelerinin çıkıntı yapması sonucu oluşan bir cilt sorunudur.",
+        "Suggestions": [
+            "Düzenli egzersiz yapın.",
+            "Sağlıklı bir diyet sürdürün.",
+            "Doktorunuzun önerdiği tedavi seçeneklerini değerlendirin."
+        ]
+    },
+    {
+        "Disease": "Gastroözofajeal Reflü Hastalığı",
+        "Doctor": "Gastroenteroloji",
+        "Description": "Gastroözofajeal reflü hastalığı, mide asidinin yemek borusuna geri kaçtığı bir durumdur.",
+        "Suggestions": [
+            "Acid reflüyü azaltmak için yemek alışkanlıklarınızı gözden geçirin.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Yatmadan önce yemek yemekten kaçının."
+        ]
+    },
+    {
+        "Disease": "Kan Zehirlenmesi",
+        "Doctor": "Acil Tıp veya İç Hastalıkları",
+        "Description": "Kan zehirlenmesi, vücutta patojenlerin neden olduğu bir enfeksiyon durumudur.",
+        "Suggestions": [
+            "Hemen acil tıbbi yardım alın.",
+            "Doktorunuzun önerdiği antibiyotikleri düzenli olarak kullanın.",
+            "İyi hijyen uygulamalarına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Derin Toplar Damar Pıhtılaşması",
+        "Doctor": "Damar Cerrahisi veya İç Hastalıkları",
+        "Description": "Derin toplar damar pıhtılaşması, genellikle bacaklarda derin venöz sistemde oluşan bir pıhtıdır.",
+        "Suggestions": [
+            "Düzenli yürüyüş ve bacak egzersizleri yapın.",
+            "Hidrasyonu sürdürün ve kan dolaşımını iyileştirmek için su tüketin.",
+            "Doktorunuzun önerdiği kan inceltici ilaçları düzenli olarak kullanın."
+        ]
+    },
+    {
+        "Disease": "Dehidrasyon",
+        "Doctor": "İç Hastalıkları veya Acil Tıp",
+        "Description": "Dehidrasyon, vücuttan yeterli miktarda su kaybı olduğu durumu ifade eder.",
+        "Suggestions": [
+            "Gün içinde yeterli su içmeye özen gösterin.",
+            "Sıcak hava veya egzersiz durumlarında su tüketimini artırın.",
+            "Dehidrasyon belirtileri görüldüğünde hemen su içmeye başlayın."
+        ]
+    },
+    {
+        "Disease": "Neoplazma",
+        "Doctor": "Onkoloji",
+        "Description": "Neoplazma, hücrelerin anormal bir şekilde büyüdüğü bir tümör veya kitleyi ifade eder.",
+        "Suggestions": [
+            "Erken teşhis için düzenli kontrolleri ihmal etmeyin.",
+            "Tedavi seçenekleri hakkında bilgi alın.",
+            "Doktorunuzun önerdiği tedavi planına uyun."
+        ]
+    },
+    {
+        "Disease": "Akciğer Embolisi",
+        "Doctor": "Göğüs Hastalıkları veya Acil Tıp",
+        "Description": "Akciğer embolisi, akciğer arterine bir pıhtının gelmesi sonucu oluşan bir durumdur.",
+        "Suggestions": [
+            "Hemen acil tıbbi yardım alın.",
+            "Doktorunuzun önerdiği kan inceltici ilaçları düzenli olarak kullanın.",
+            "Risk faktörlerini azaltmak için sağlıklı yaşam alışkanlıklarını benimseyin."
+        ]
+    },
+    {
+        "Disease": "Epilepsi",
+        "Doctor": "Nöroloji",
+        "Description": "Epilepsi, tekrarlayan nöbetlere neden olan bir nörolojik bozukluktur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği anti-epileptik ilaçları düzenli olarak kullanın.",
+            "Stres yönetimi tekniklerini uygulayın.",
+            "Düzenli doktor kontrolünde olun."
+        ]
+    },
+    {
+        "Disease": "Kardiyomiyopati",
+        "Doctor": "Kardiyoloji",
+        "Description": "Kardiyomiyopati, kalp kasının zayıfladığı veya genişlediği bir durumdur.",
+        "Suggestions": [
+            "Düzenli olarak ilaçlarınızı kullanın.",
+            "Sağlıklı bir diyet sürdürün.",
+            "Doktorunuzun önerdiği yaşam tarzı değişikliklerine uyun."
+        ]
+    },
+    {
+        "Disease": "Kronik Böbrek Yetmezliği",
+        "Doctor": "Nefroloji",
+        "Description": "Kronik böbrek yetmezliği, böbreklerin zamanla işlev kaybetmesi durumudur.",
+        "Suggestions": [
+            "Böbrek sağlığınızı korumak için düzenli olarak doktor kontrollerine gidin.",
+            "Böbrek dostu bir diyet sürdürün.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın."
+        ]
+    },
+    {
+        "Disease": "Karsinom",
+        "Doctor": "Onkoloji veya Genel Cerrahi",
+        "Description": "Karsinom, epitelyal hücrelerden kaynaklanan kanser türlerini ifade eder.",
+        "Suggestions": [
+            "Erken teşhis için düzenli kontrolleri ihmal etmeyin.",
+            "Tedavi seçenekleri hakkında bilgi alın.",
+            "Doktorunuzun önerdiği tedavi planına uyun."
+        ]
+    },
+    {
+        "Disease": "Periferik Damar Hastalığı",
+        "Doctor": "Kardiyoloji veya Damar Cerrahisi",
+        "Description": "Periferik damar hastalığı, genellikle bacaklardaki damarların daralması veya tıkanması sonucu oluşan bir durumdur.",
+        "Suggestions": [
+            "Düzenli egzersiz yapın.",
+            "Sağlıklı bir diyet sürdürün.",
+            "Sigara içmeyi bırakın ve alkol tüketimini sınırlayın."
+        ]
+    },
+    {
+        "Disease": "Psikotik Bozukluk",
+        "Doctor": "Psikiyatri",
+        "Description": "Psikotik bozukluk, gerçeklikten kopma, halüsinasyonlar ve sanrılar gibi semptomları içeren bir mental sağlık durumudur.",
+        "Suggestions": [
+            "Profesyonel yardım almayı düşünün.",
+            "İlaç tedavisini düzenli olarak uygulayın.",
+            "Düzenli olarak terapi seanslarına katılın."
+        ]
+    },
+    {
+        "Disease": "Hiperlipidemi",
+        "Doctor": "Kardiyoloji veya İç Hastalıkları",
+        "Description": "Hiperlipidemi, kandaki yağ seviyelerinin yüksek olması durumudur.",
+        "Suggestions": [
+            "Sağlıklı bir diyet sürdürün.",
+            "Düzenli egzersiz yapın.",
+            "İlaç tedavisi için doktorunuzla görüşün."
+        ]
+    },
+    {
+        "Disease": "Obezite",
+        "Doctor": "Endokrinoloji veya Beslenme",
+        "Description": "Obezite, vücut ağırlığının sağlık için normal sınırların üzerinde olması durumudur.",
+        "Suggestions": [
+            "Sağlıklı bir diyet sürdürün.",
+            "Düzenli egzersiz yapın.",
+            "Doktorunuzun önerdiği yaşam tarzı değişikliklerine uyun."
+        ]
+    },
+    {
+        "Disease": "İskemi",
+        "Doctor": "Kardiyoloji veya Nöroloji",
+        "Description": "İskemi, bir dokunun yeterli oksijen alamaması durumudur.",
+        "Suggestions": [
+            "Düzenli egzersiz yapın.",
+            "Sağlıklı bir diyet sürdürün.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın."
+        ]
+    },
+    {
+        "Disease": "Ekzantem",
+        "Doctor": "Dermatoloji",
+        "Description": "Ekzantem, ciltte kızarıklık, kabarcıklar veya döküntülerle karakterize edilen bir durumdur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Kaşıntıyı azaltmak için soğuk kompresler uygulayın.",
+            "Alerjenlerden kaçının ve cildinizi nemlendirin."
+        ]
+    },
+    {
+        "Disease": "İyi Huylu Prostat Hipertrofisi",
+        "Doctor": "Üroloji veya İç Hastalıkları",
+        "Description": "İyi huylu prostat hipertrofisi, prostat bezinin büyümesi sonucu idrar akışının zorlaşmasıyla karakterize edilen bir durumdur.",
+        "Suggestions": [
+            "Düzenli olarak doktor kontrolünde olun.",
+            "İlaç tedavisi veya cerrahi seçenekleri değerlendirin.",
+            "Sıvı alımına dikkat edin ve düzenli egzersiz yapın."
+        ]
+    },
+    {
+        "Disease": "Mitral Kapak Yetmezliği",
+        "Doctor": "Kardiyoloji veya Kalp Cerrahisi",
+        "Description": "Mitral kapak yetmezliği, kalbin sol kulakçığının kapanma yeteneğinin azalmasıyla karakterizedir.",
+        "Suggestions": [
+            "Düzenli olarak doktor kontrolünde olun.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Gerekirse cerrahi müdahaleyi düşünün."
+        ]
+    },
+    {
+        "Disease": "Hemiparezi",
+        "Doctor": "Nöroloji veya Fiziksel Rehabilitasyon",
+        "Description": "Hemiparezi, vücudun bir yarısında güçsüzlük veya felç durumudur.",
+        "Suggestions": [
+            "Fiziksel terapi programına katılın.",
+            "Doktorunuzun önerdiği egzersizleri düzenli olarak yapın.",
+            "Sağlıklı bir yaşam tarzını sürdürün."
+        ]
+    },
+    {
+        "Disease": "Kemik Erimesi",
+        "Doctor": "Romatoloji veya Endokrinoloji",
+        "Description": "Kemik erimesi, kemik yoğunluğunun azalması sonucu kemiklerin zayıflaması durumudur.",
+        "Suggestions": [
+            "Düzenli olarak kalsiyum ve D vitamini alımına dikkat edin.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Düzenli egzersiz yapın."
+        ]
+    },
+    {
+        "Disease": "Geçici İskemik Atak",
+        "Doctor": "Nöroloji veya Acil Tıp",
+        "Description": "Geçici iskemik atak, beyne geçici olarak az miktarda kan gitmesi sonucu oluşan bir durumdur.",
+        "Suggestions": [
+            "Hemen acil tıbbi yardım alın.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Sağlıklı bir yaşam tarzını benimseyin."
+        ]
+    },
+    {
+        "Disease": "Adenokarsinom",
+        "Doctor": "Onkoloji veya Genel Cerrahi",
+        "Description": "Adenokarsinom, bez hücrelerinden kaynaklanan kanser türlerini ifade eder.",
+        "Suggestions": [
+            "Erken teşhis için düzenli kontrolleri ihmal etmeyin.",
+            "Tedavi seçenekleri hakkında bilgi alın.",
+            "Doktorunuzun önerdiği tedavi planına uyun."
+        ]
+    },
+    {
+        "Disease": "Paranoya",
+        "Doctor": "Psikiyatri",
+        "Description": "Paranoya, aşırı şüphecilik ve düşmanlık duygularının hakim olduğu bir psikiyatrik durumdur.",
+        "Suggestions": [
+            "Profesyonel yardım almayı düşünün.",
+            "İlaç tedavisini düzenli olarak uygulayın.",
+            "Düzenli olarak terapi seanslarına katılın."
+        ]
+    },
+    {
+        "Disease": "Pankreatit",
+        "Doctor": "Gastroenteroloji veya Cerrahi",
+        "Description": "Pankreatit, pankreasın iltihaplanması durumudur ve ciddi sağlık sorunlarına yol açabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği diyeti uygulayın.",
+            "Alkol tüketimini sınırlayın veya bırakın.",
+            "İlaç tedavisini düzenli olarak uygulayın."
+        ]
+    },
+    {
+        "Disease": "İdrar Kaçırma",
+        "Doctor": "Üroloji veya Kadın Hastalıkları",
+        "Description": "İdrar kaçırma, kontrolsüz idrar kaybı durumunu ifade eder ve farklı tedavi yöntemleri bulunabilir.",
+        "Suggestions": [
+            "Pelvik taban egzersizleri yapın.",
+            "Sıvı tüketimini düzenleyin.",
+            "Doktorunuzun önerdiği tedavi seçeneklerini değerlendirin."
+        ]
+    },
+    {
+        "Disease": "Paroksismal Dispne",
+        "Doctor": "Kardiyoloji veya Göğüs Hastalıkları",
+        "Description": "Paroksismal dispne, ani nefes darlığı ataklarına neden olan bir durumdur ve genellikle kalp veya akciğer sorunlarına bağlıdır.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Sigara içmeyi bırakın ve hava kirliliğinden kaçının.",
+            "Sağlıklı bir yaşam tarzını sürdürün."
+        ]
+    },
+    {
+        "Disease": "Fıtık",
+        "Doctor": "Cerrahi veya Ortopedi",
+        "Description": "Fıtık, iç organların vücut boşluklarından çıkması durumudur ve cerrahi müdahale gerektirebilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ameliyatı düşünün.",
+            "Fiziksel aktivitelerde aşırı zorlamadan kaçının.",
+            "Kilo kontrolüne dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Prostat Malign Neoplazmı",
+        "Doctor": "Üroloji veya Onkoloji",
+        "Description": "Prostat malign neoplazmı, prostat dokusundan kaynaklanan kanser türünü ifade eder.",
+        "Suggestions": [
+            "Erken teşhis için düzenli kontrolleri ihmal etmeyin.",
+            "Tedavi seçenekleri hakkında bilgi alın.",
+            "Doktorunuzun önerdiği tedavi planına uyun."
+        ]
+    },
+    {
+        "Disease": "Akciğer Ödemi",
+        "Doctor": "Göğüs Hastalıkları veya Acil Tıp",
+        "Description": "Akciğer ödemi, akciğerlerdeki sıvı birikimi sonucu oluşan bir durumdur ve ciddi bir tıbbi acil durumdur.",
+        "Suggestions": [
+            "Hemen acil tıbbi yardım alın.",
+            "Doktorunuzun önerdiği tedaviyi uygulayın.",
+            "Tuz alımını sınırlayın ve sıvı dengesine dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Lenf Hastalıkları",
+        "Doctor": "Hematoloji veya Onkoloji",
+        "Description": "Lenf hastalıkları, lenf sisteminin anormal büyümesi veya fonksiyon bozukluklarını içerir.",
+        "Suggestions": [
+            "Erken teşhis için düzenli kontrolleri ihmal etmeyin.",
+            "Tedavi seçenekleri hakkında bilgi alın.",
+            "Doktorunuzun önerdiği tedavi planına uyun."
+        ]
+    },
+    {
+        "Disease": "Aort Kapağı Darlığı",
+        "Doctor": "Kardiyoloji veya Kalp Cerrahisi",
+        "Description": "Aort kapağı darlığı, kalpteki aort kapağının daralması sonucu kanın düzensiz akışına neden olan bir durumdur.",
+        "Suggestions": [
+            "Düzenli olarak doktor kontrolünde olun.",
+            "Gerekirse cerrahi müdahaleyi düşünün.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın."
+        ]
+    },
+    {
+        "Disease": "Meme Malign Neoplazmı",
+        "Doctor": "Onkoloji veya Genel Cerrahi",
+        "Description": "Meme malign neoplazmı, memedeki anormal hücre büyümesini ifade eder ve genellikle kanserle ilişkilidir.",
+        "Suggestions": [
+            "Erken teşhis için düzenli mammografi yaptırın.",
+            "Tedavi seçenekleri hakkında bilgi alın.",
+            "Doktorunuzun önerdiği tedavi planına uyun."
+        ]
+    },
+    {
+        "Disease": "Şizofreni",
+        "Doctor": "Psikiyatri",
+        "Description": "Şizofreni, gerçeklikten kopma, anormal düşünce desenleri ve davranış değişiklikleri ile karakterize edilen bir mental sağlık durumudur.",
+        "Suggestions": [
+            "Profesyonel yardım almayı düşünün.",
+            "İlaç tedavisini düzenli olarak uygulayın.",
+            "Düzenli olarak terapi seanslarına katılın."
+        ]
+    },
+    {
+        "Disease": "Divertikülit",
+        "Doctor": "Gastroenteroloji veya Cerrahi",
+        "Description": "Divertikülit, bağırsak duvarında oluşan iltihaplanmış divertiküllerin neden olduğu bir durumdur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği diyeti uygulayın.",
+            "İlaç tedavisini düzenli olarak uygulayın.",
+            "Doktor kontrolünde düzenli takip yapın."
+        ]
+    },
+    {
+        "Disease": "Aşırı Sıvı Yüklenmesi",
+        "Doctor": "Kardiyoloji veya Nefroloji",
+        "Description": "Aşırı sıvı yüklenmesi, vücutta normalden fazla sıvı birikmesi durumudur ve çeşitli sağlık sorunlarına yol açabilir.",
+        "Suggestions": [
+            "Sıvı alımını kontrol altında tutun.",
+            "Doktorunuzun önerdiği diyeti takip edin.",
+            "Gerekirse ilaç tedavisini düzenli olarak uygulayın."
+        ]
+    },
+    {
+        "Disease": "Peptik Ülser",
+        "Doctor": "Gastroenteroloji veya Cerrahi",
+        "Description": "Peptik ülser, mide veya onikiparmak bağırsağında meydana gelen yara lezyonlarıdır.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Sağlıklı bir diyet sürdürün ve asitli gıdalardan kaçının.",
+            "Sigara içmeyi bırakın ve alkol tüketimini sınırlayın."
+        ]
+    },
+    {
+        "Disease": "Osteomiyelit",
+        "Doctor": "Ortopedi veya Enfeksiyon Hastalıkları",
+        "Description": "Osteomiyelit, kemiklerin iltihaplanması durumudur ve genellikle bakteriyel bir enfeksiyon sonucu oluşur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği antibiyotikleri düzenli olarak kullanın.",
+            "İyileşme sürecini desteklemek için dinlenin ve sağlıklı beslenin.",
+            "Tedaviye uygun şekilde devam edin ve kontrolleri ihmal etmeyin."
+        ]
+    },
+    {
+        "Disease": "Gastrit",
+        "Doctor": "Gastroenteroloji veya İç Hastalıkları",
+        "Description": "Gastrit, mide iç yüzeyinin iltihaplanması durumudur ve çeşitli nedenlere bağlı olarak ortaya çıkabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği diyeti uygulayın.",
+            "Asitli ve baharatlı gıdalardan kaçının.",
+            "İlaç tedavisini düzenli olarak uygulayın."
+        ]
+    },
+    {
+        "Disease": "Bakteriyemi",
+        "Doctor": "Enfeksiyon Hastalıkları veya İç Hastalıkları",
+        "Description": "Bakteriyemi, kan dolaşımında bakteri bulunması durumudur ve ciddi bir enfeksiyon belirtisi olabilir.",
+        "Suggestions": [
+            "Hemen acil tıbbi yardım alın.",
+            "Doktorunuzun önerdiği antibiyotikleri düzenli olarak kullanın.",
+            "Enfeksiyonun neden kaynaklandığını belirlemek için testleri takip edin."
+        ]
+    },
+    {
+        "Disease": "Orak Hücre Anemisi",
+        "Doctor": "Hematoloji veya Genetik",
+        "Description": "Orak hücre anemisi, genetik bir kan hastalığıdır ve anormal şekilli kırmızı kan hücreleri üretilmesine neden olur.",
+        "Suggestions": [
+            "Düzenli olarak doktor kontrolünde olun.",
+            "Folik asit ve diğer ilaçları düzenli olarak kullanın.",
+            "Sıvı alımına dikkat edin ve sağlıklı bir yaşam tarzını sürdürün."
+        ]
+    },
+    {
+        "Disease": "Kalp Yetmezliği",
+        "Doctor": "Kardiyoloji veya İç Hastalıkları",
+        "Description": "Kalp yetmezliği, kalbin vücuda yeterince kan pompalayamaması durumudur ve çeşitli nedenlere bağlı olarak ortaya çıkabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Tuz alımını sınırlayın ve sıvı dengesine dikkat edin.",
+            "Düzenli egzersiz yapın ve sağlıklı bir diyet sürdürün."
+        ]
+    },
+    {
+        "Disease": "Üst Solunum Yolu Enfeksiyonu",
+        "Doctor": "İç Hastalıkları veya Aile Hekimliği",
+        "Description": "Üst solunum yolu enfeksiyonu, burun, boğaz, sinüsler veya solunum yollarını etkileyen bir enfeksiyon türüdür.",
+        "Suggestions": [
+            "Bol miktarda su içerek vücut sıvı dengesini koruyun.",
+            "Dinlenin ve uygun ilaçları kullanarak semptomları hafifletin.",
+            "Sigara içmeyi bırakın ve hijyen kurallarına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Pulmoner Hipertansiyon",
+        "Doctor": "Göğüs Hastalıkları veya Kardiyoloji",
+        "Description": "Pulmoner hipertansiyon, akciğer arterlerinde yüksek kan basıncı ile karakterize edilen bir durumdur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Hafif egzersizler yapın ve solunum egzersizlerine odaklanın.",
+            "Sigara içmeyi bırakın ve sağlıklı bir diyet sürdürün."
+        ]
+    },
+    {
+        "Disease": "Yutma Bozukluğu",
+        "Doctor": "Gastroenteroloji veya Kulak Burun Boğaz",
+        "Description": "Yutma bozukluğu, yiyecek veya sıvıların normal şekilde yutulamaması durumunu ifade eder.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği test ve tetkiklere düzenli olarak katılın.",
+            "Yavaşça ve dikkatlice yemek yiyin.",
+            "Sağlık profesyoneli ile bir diyet planı oluşturun."
+        ]
+    },
+    {
+        "Disease": "Trombositopeni",
+        "Doctor": "Hematoloji veya İç Hastalıkları",
+        "Description": "Trombositopeni, kanın pıhtılaşma hücreleri olan trombositlerin düşük sayıda bulunması durumudur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Düzenli kan testi ve takip kontrollerine katılın.",
+            "Yaralanmalardan kaçının ve güvenli bir yaşam tarzı sürdürün."
+        ]
+    },
+    {
+        "Disease": "Aspirasyon Pnömonisi",
+        "Doctor": "Göğüs Hastalıkları veya Acil Tıp",
+        "Description": "Aspirasyon pnömonisi, mide içeriğinin veya yabancı cisimlerin solunum yollarına kaçması sonucu oluşan bir akciğer enfeksiyonudur.",
+        "Suggestions": [
+            "Hemen tıbbi yardım alın.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Gıda veya sıvı alımında dikkatli olun ve dik pozisyonda yemek yiyin."
+        ]
+    },
+    {
+        "Disease": "Kolit",
+        "Doctor": "Gastroenteroloji veya İç Hastalıkları",
+        "Description": "Kolit, bağırsakların iltihaplanması durumudur ve çeşitli nedenlere bağlı olarak ortaya çıkabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Sağlıklı bir diyet sürdürün ve posa alımına dikkat edin.",
+            "Stresten kaçının ve düzenli egzersiz yapın."
+        ]
+    },
+    {
+        "Disease": "Divertiküloz",
+        "Doctor": "Gastroenteroloji veya Cerrahi",
+        "Description": "Divertiküloz, bağırsağın iç duvarındaki küçük çıkıntılardır ve bu çıkıntılar divertikül olarak adlandırılır.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği diyeti uygulayın.",
+            "Düzenli olarak lifli gıdalar tüketin.",
+            "Doktor kontrolünde düzenli takip yapın."
+        ]
+    },
+    {
+        "Disease": "İntihar Girişimi",
+        "Doctor": "Psikiyatri veya Acil Tıp",
+        "Description": "İntihar girişimi, bireyin kendi yaşamına son vermeye yönelik bilinçli bir çaba veya davranıştır.",
+        "Suggestions": [
+            "Hemen acil yardım alın.",
+            "Profesyonel yardım almayı düşünün.",
+            "Aile ve arkadaşlarınızla duygusal destek paylaşımını teşvik edin."
+        ]
+    },
+    {
+        "Disease": "Pnömokistik Carinii Pnömoni",
+        "Doctor": "Enfeksiyon Hastalıkları veya Göğüs Hastalıkları",
+        "Description": "Pnömokistik Carinii Pnömoni (PCP), genellikle bağışıklık sistemi zayıflamış kişilerde görülen bir akciğer enfeksiyonudur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Bağışıklık sisteminizi güçlendirmek için sağlıklı bir yaşam tarzı benimseyin.",
+            "Düzenli kontrollerle sağlık durumunuzu takip edin."
+        ]
+    },
+
+    {
+        "Disease": "Lenfoma",
+        "Doctor": "Hematoloji veya Onkoloji",
+        "Description": "Lenfoma, lenf sistemi hücrelerinin anormal bir şekilde büyüdüğü kanser türüdür.",
+        "Suggestions": [
+            "Kemoterapi, radyoterapi veya immunoterapi gibi tedavi seçenekleri hakkında doktorunuzla görüşün.",
+            "Düzenli kontrol ve takiplere katılın.",
+            "Duygusal destek almak için destek gruplarına veya terapistle görüşmelere katılın."
+        ]
+    },
+    {
+        "Disease": "Hiperglisemi",
+        "Doctor": "Endokrinoloji veya İç Hastalıkları",
+        "Description": "Hiperglisemi, kan şekerinin normalden yüksek olması durumudur ve genellikle diyabetle ilişkilidir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları ve insülin tedavisini düzenli olarak uygulayın.",
+            "Sağlıklı bir diyet ve düzenli egzersizle kan şekerini kontrol altında tutun.",
+            "Düzenli kan şekeri takiplerine ve kontrolüne özen gösterin."
+        ]
+    },
+    {
+        "Disease": "Ensefalopati",
+        "Doctor": "Nöroloji veya İç Hastalıkları",
+        "Description": "Ensefalopati, beyin fonksiyonlarının genel bir bozulması durumunu ifade eder.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tedavi planına uyun.",
+            "Diyet değişiklikleri ve sıvı kontrolüne dikkat edin.",
+            "Düzenli doktor kontrollerine katılın ve semptomları bildirin."
+        ]
+    },
+    {
+        "Disease": "Triküspit Kapak Yetmezliği",
+        "Doctor": "Kardiyoloji veya Göğüs Cerrahisi",
+        "Description": "Triküspit kapak yetmezliği, kalbin sağ üst odacığının kapakçığının düzgün çalışmaması durumudur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Düzenli egzersiz yapın ve kalp sağlığınıza dikkat edin.",
+            "Doktor kontrollerine düzenli olarak katılın ve gerekirse cerrahi müdahaleyi değerlendirin."
+        ]
+    },
+    {
+        "Disease": "Pamukçuk",
+        "Doctor": "Dahiliye veya Dermatoloji",
+        "Description": "Pamukçuk, ağız içinde, dilde veya genital bölgede görülen mantar enfeksiyonudur.",
+        "Suggestions": [
+            "Antifungal ilaçları düzenli olarak kullanın.",
+            "Diyetinizi gözden geçirin ve şeker alımını sınırlayın.",
+            "Kişisel hijyene dikkat edin ve risk faktörlerinden kaçının."
+        ]
+    },
+    {
+        "Disease": "Nöropati",
+        "Doctor": "Nöroloji veya İç Hastalıkları",
+        "Description": "Nöropati, sinir hasarı sonucu ortaya çıkan bir durumdur ve çeşitli nedenlere bağlı olarak gelişebilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları ve tedavi planını düzenli olarak uygulayın.",
+            "Ayak bakımına özen gösterin ve uygun ayakkabı giyin.",
+            "Diyetinizi gözden geçirin ve düzenli egzersiz yapın."
+        ]
+    },
+    {
+        "Disease": "Böbrek Hastalığı",
+        "Doctor": "Nefroloji veya İç Hastalıkları",
+        "Description": "Böbrek hastalığı, böbreklerin normal fonksiyonlarını yerine getiremediği bir durumdur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları ve diyeti düzenli olarak uygulayın.",
+            "Böbrek fonksiyonlarını düzenli olarak kontrol edin.",
+            "Tuz alımını sınırlayın ve yeterli su içmeye özen gösterin."
+        ]
+    },
+    {
+        "Disease": "Fibroid Tümör",
+        "Doctor": "Jinekoloji veya Cerrahi",
+        "Description": "Fibroid tümör, rahim içinde gelişen iyi huylu bir tümördür.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tedavi seçenekleri hakkında bilgi alın.",
+            "Semptomları kontrol etmek için ilaçları düzenli olarak kullanın.",
+            "Gerekirse cerrahi müdahaleyi değerlendirin ve düzenli takip kontrollerine katılın."
+        ]
+    },
+    {
+        "Disease": "Tümör Metastazı",
+        "Doctor": "Onkoloji veya Cerrahi",
+        "Description": "Tümör metastazı, kanser hücrelerinin vücudun diğer bölgelerine yayılması durumudur.",
+        "Suggestions": [
+            "Onkolog ile tedavi planını değerlendirin.",
+            "Kemoterapi, radyoterapi veya cerrahi müdahale gibi tedavileri düşünün.",
+            "Duygusal destek almak için destek gruplarına veya terapistle görüşmelere katılın."
+        ]
+    },
+    {
+        "Disease": "Kötü Huylu Kolon Tümörü",
+        "Doctor": "Onkoloji veya Cerrahi",
+        "Description": "Kötü huylu kolon tümörü, kalın bağırsakta gelişen kanserli bir büyümedir.",
+        "Suggestions": [
+            "Kolonoskopi ve diğer tarama testlerine düzenli olarak katılın.",
+            "Tedavi seçenekleri hakkında onkolog ile görüşün.",
+            "Sağlıklı bir yaşam tarzı sürdürün ve düzenli doktor kontrollerine katılın."
+        ]
+    },
+    {
+        "Disease": "Diyabetik Ketoasidoz",
+        "Doctor": "Endokrinoloji veya Acil Tıp",
+        "Description": "Diyabetik ketoasidoz, şeker hastalarında kan şekerinin aşırı yükselmesi ve asidoz durumudur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği insülin tedavisini düzenli olarak uygulayın.",
+            "Diyetinize dikkat edin ve karbonhidrat alımını kontrol altında tutun.",
+            "Düzenli kan şekeri takiplerine özen gösterin ve acil durum planınızı bilmek önemlidir."
+        ]
+    },
+    {
+        "Disease": "Tonik-Klonik Epilepsi",
+        "Doctor": "Nöroloji veya Beyin Cerrahisi",
+        "Description": "Tonik-klonik epilepsi, beyindeki anormal elektrik aktivitesi nedeniyle oluşan geniş çaplı bir nöbet türüdür.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği antiepileptik ilaçları düzenli olarak kullanın.",
+            "Düzenli olarak doktor kontrolüne gidin ve ilaç dozlarını düzenli olarak gözden geçirin.",
+            "Nöbet tetikleyicilerden kaçının ve sağlıklı bir yaşam tarzı sürdürün."
+        ]
+    },
+    {
+        "Disease": "Solunum Yetmezliği",
+        "Doctor": "Göğüs Hastalıkları veya Yoğun Bakım",
+        "Description": "Solunum yetmezliği, vücudun oksijen alışverişini yetersiz yapması durumudur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği solunum tedavilerini düzenli olarak uygulayın.",
+            "Sigara içiyorsanız bırakın ve çevresel hava kalitesine dikkat edin.",
+            "Düzenli egzersiz yapın ve sağlıklı bir yaşam tarzı benimseyin."
+        ]
+    },
+    {
+        "Disease": "Melanom",
+        "Doctor": "Dermatoloji veya Onkoloji",
+        "Description": "Melanom, deri hücrelerinde anormal bir büyüme ve gelişme ile karakterizedir ve cilt kanseri türlerinden biridir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği cilt kontrolüne düzenli olarak katılın.",
+            "Cilt kanseri risk faktörlerinden kaçının ve güneşten korunun.",
+            "Şüpheli deri lezyonları hakkında derhal doktorunuza bilgi verin."
+        ]
+    },
+    {
+        "Disease": "Kötü Huylu Akciğer Tümörü",
+        "Doctor": "Göğüs Cerrahisi veya Onkoloji",
+        "Description": "Kötü huylu akciğer tümörü, akciğer dokusunda hızla büyüyen kanserli bir lezyondur.",
+        "Suggestions": [
+            "Göğüs röntgeni ve diğer tarama testlerine düzenli olarak katılın.",
+            "Onkolog ile tedavi planını değerlendirin.",
+            "Sigara içiyorsanız bırakın ve sağlıklı bir yaşam tarzı sürdürün."
+        ]
+    },
+    {
+        "Disease": "Kötü Huylu Akciğer Tümörü",
+        "Doctor": "Onkoloji veya Göğüs Cerrahisi",
+        "Description": "Kötü huylu akciğer tümörü, akciğer dokusundaki hücrelerin kontrolsüz büyümesi ve yayılmasıdır.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tedavi planını takip edin.",
+            "Sigara içiyorsanız hemen bırakın.",
+            "Düzenli kontrollerle sağlık durumunuzu takip edin."
+        ]
+    },
+    {
+        "Disease": "Manik Bozukluk",
+        "Doctor": "Psikiyatri veya Ruh Sağlığı",
+        "Description": "Manik bozukluk, aşırı enerji, hızlı düşünce akışı ve hafiflik hissi ile karakterize edilen bir duygudurum bozukluğudur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Stresi yönetmek için terapiye katılın.",
+            "Sağlıklı yaşam alışkanlıklarını sürdürün."
+        ]
+    },
+    {
+        "Disease": "Kişilik Bozukluğu",
+        "Doctor": "Psikiyatri veya Ruh Sağlığı",
+        "Description": "Kişilik bozukluğu, uzun süreli ve esnek olmayan düşünce ve davranış kalıplarını içeren bir zihinsel sağlık durumudur.",
+        "Suggestions": [
+            "Psikoterapi ile kişisel gelişim üzerine çalışın.",
+            "Düzenli olarak terapi seanslarına katılın.",
+            "Sosyal destek ağınızı güçlendirin."
+        ]
+    },
+    {
+        "Disease": "Karaciğer Hücrelerinin Primer Karsinomu",
+        "Doctor": "Hematoloji veya Onkoloji",
+        "Description": "Karaciğer hücrelerinin primer karsinomu, karaciğer hücrelerinde başlayan bir kanser türüdür.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tedavi planını takip edin.",
+            "Alkol tüketimini sınırlayın veya bırakın.",
+            "Sağlıklı bir diyet sürdürün ve düzenli egzersiz yapın."
+        ]
+    },
+    {
+        "Disease": "Akciğer Amfizemi",
+        "Doctor": "Göğüs Hastalıkları veya Fiziksel Tıp ve Rehabilitasyon",
+        "Description": "Akciğer amfizemi, akciğer dokusunun hasar görmesi sonucu hava keseciklerinin genişlemesi durumudur.",
+        "Suggestions": [
+            "Sigara içiyorsanız hemen bırakın.",
+            "Doktorunuzun önerdiği ilaçları düzenli olarak kullanın.",
+            "Solunum egzersizleri ve düzenli egzersiz yapın."
+        ]
+    },
+    {
+        "Disease": "Hemoroid",
+        "Doctor": "Genel Cerrahi veya Proktoloji",
+        "Description": "Hemoroid, makat bölgesindeki damarların şişmesi ve iltihaplanması durumudur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği ilaçları ve tedavi yöntemlerini uygulayın.",
+            "Yüksek lifli bir diyet benimseyin ve bol su içmeye özen gösterin.",
+            "Aktif bir yaşam tarzını sürdürün ve aşırı zorlanmalardan kaçının."
+        ]
+    },
+    {
+        "Disease": "Bronşiyal Spazm",
+        "Doctor": "Göğüs Hastalıkları veya Acil Tıp",
+        "Description": "Bronşiyal spazm, bronşların kasılması sonucu hava yolunun daralması durumudur.",
+        "Suggestions": [
+            "Doktorunuzun reçete ettiği ilaçları düzenli olarak kullanın.",
+            "Astım veya kronik bronşit gibi altta yatan durumları kontrol altında tutun.",
+            "Allerjenlerden kaçının ve sigara içmeyin."
+        ]
+    },
+    {
+        "Disease": "Afazi",
+        "Doctor": "Nöroloji veya Konuşma ve Dil Patolojisi",
+        "Description": "Afazi, dil yeteneğini kullanma veya anlama bozukluğudur ve genellikle beyin hasarı nedeniyle ortaya çıkar.",
+        "Suggestions": [
+            "Konuşma terapisi alın.",
+            "Dil egzersizleri yaparak iletişim becerilerinizi geliştirin.",
+            "Beyin sağlığını desteklemek için sağlıklı bir yaşam tarzını sürdürün."
+        ]
+    },
+    {
+        "Disease": "Morbid Obezite",
+        "Doctor": "Endokrinoloji veya Genel Cerrahi",
+        "Description": "Morbid obezite, vücut ağırlığının normalin çok üzerinde olduğu bir obezite durumudur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği diyet ve egzersiz planını takip edin.",
+            "Bariatrik cerrahi gibi tedavi seçeneklerini değerlendirin.",
+            "Psikososyal destek alın ve sağlıklı yaşam alışkanlıkları geliştirin."
+        ]
+    },
+    {
+        "Disease": "Pyelonefrit",
+        "Doctor": "Üroloji veya Enfeksiyon Hastalıkları",
+        "Description": "Pyelonefrit, böbrek iltihabıdır ve genellikle bakteriyel enfeksiyonlar nedeniyle ortaya çıkar.",
+        "Suggestions": [
+            "Doktorunuzun reçete ettiği antibiyotikleri düzenli olarak kullanın.",
+            "Bol su içerek böbrek sağlığınızı destekleyin.",
+            "İdrar yolu enfeksiyonlarından kaçınmak için hijyen kurallarına dikkat edin."
+        ]
+    },
+    {
+        "Disease": "Endokardit",
+        "Doctor": "Kardiyoloji veya Enfeksiyon Hastalıkları",
+        "Description": "Endokardit, kalp iç zarının iltihaplanmasıdır ve genellikle bakteriyel enfeksiyonlarla ilişkilidir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği antibiyotik tedavisini tamamlayın.",
+            "Düzenli olarak kalp sağlığınızı kontrol ettirin.",
+            "Sağlıklı bir diyet sürdürün ve egzersiz yapın."
+        ]
+    },
+    {
+        "Disease": "Perikardiyal Efüzyon",
+        "Doctor": "Kardiyoloji veya Kardiyovasküler Cerrahi",
+        "Description": "Perikardiyal efüzyon, kalbi saran zarın arasında biriken sıvı nedeniyle oluşan bir durumdur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tedaviyi uygulayın.",
+            "Altta yatan nedenleri tedavi etmek için gereken tıbbi müdahaleleri kabul edin.",
+            "Düzenli olarak kalp sağlığınızı kontrol ettirin."
+        ]
+    },
+    {
+        "Disease": "Kronik Alkol Zehirlenmesi",
+        "Doctor": "İç Hastalıkları veya Psikiyatri",
+        "Description": "Kronik alkol zehirlenmesi, uzun süreli aşırı alkol tüketimi sonucu ortaya çıkan bir sağlık sorunudur.",
+        "Suggestions": [
+            "Alkol tüketimini sınırlayın veya bırakın.",
+            "Psikososyal destek alın ve sağlıklı yaşam alışkanlıkları geliştirin."
+        ]
+    },
+    {
+        "Disease": "Pnömotoraks",
+        "Doctor": "Göğüs Cerrahisi veya Göğüs Hastalıkları ",
+        "Description": "Pnömotoraks, akciğer zarındaki bir delik nedeniyle hava birikmesi ve akciğerin çökmesidir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tedavi planını takip edin.",
+            "Ağır yükleri kaldırmaktan kaçının ve düzenli olarak solunum egzersizleri yapın.",
+            "Sigara içiyorsanız hemen bırakın."
+        ]
+    },
+    {
+        "Disease": "Deliryum",
+        "Doctor": "Nöroloji veya Psikiyatri ",
+        "Description": "Deliryum, zihinsel durumun hızla değiştiği bir durumdur. Hafıza kaybı, konsantrasyon zorluğu ve gerçeklikle bağlantıyı kaybetme gibi belirtiler içerebilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tedavi planına uyun.",
+            "Çevresel uyaranları azaltın, sakin bir ortam sağlayın ve düzenli bir uyku düzeni oluşturun.",
+            "Belirtilerinizde herhangi bir değişiklik olduğunda hemen doktorunuza başvurun."
+        ]
+    },
+    {
+        "Disease": "Nötropeni",
+        "Doctor": "Hematoloji veya Onkoloji ",
+        "Description": "Nötropeni, vücutta yeterince nötrofil adı verilen beyaz kan hücrelerinin bulunmaması durumudur. Bu durum bağışıklık sisteminin zayıflamasına neden olabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği tedavilere düzenli olarak uyun.",
+            "Enfeksiyonlardan korunmak için hijyen kurallarına dikkat edin ve kalabalık yerlerden kaçının.",
+            "Belirtilerinizde herhangi bir değişiklik olduğunda hemen doktorunuza başvurun."
+        ]
+    },
+    {
+        "Disease": "Hiperbilirubinemi",
+        "Doctor": "Gastroenteroloji veya Hepatoloji",
+        "Description": "Hiperbilirubinemi, kandaki bilirubin seviyelerinin yüksek olduğu bir durumdur. Bu genellikle karaciğer veya safra kesesi sorunlarına işaret edebilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği diyeti ve ilaçları düzenli olarak kullanın.",
+            "Alkol tüketiminden kaçının ve sağlıklı bir yaşam tarzı sürdürün.",
+            "Belirtilerinizde herhangi bir değişiklik olduğunda doktorunuza danışın."
+        ]
+    },
+    {
+        "Disease": "Bağımlılık",
+        "Doctor": "Psikiyatri veya Bağımlılık",
+        "Description": "Bağımlılık, madde veya aktiviteye karşı kontrol kaybı ve bu maddenin veya aktivitenin olumsuz sonuçlara neden olmasının devam etmesi durumudur.",
+        "Suggestions": [
+            "Profesyonel yardım almak için bir bağımlılık uzmanına başvurun.",
+            "Destek gruplarına katılın ve bağımlılıkla mücadele etmek için sosyal destek arayın.",
+            "Tedavi planınızı düzenli olarak takip edin ve olumlu yaşam tarzı değişiklikleri yapın."
+        ]
+    },
+    {
+        "Disease": "Trombüs",
+        "Doctor": "Kardiyoloji",
+        "Description": "Trombüs, bir kan damarında veya kalpte oluşan pıhtıdır. Bu durum kan akışını engelleyebilir ve ciddi sorunlara yol açabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği kan inceltici ilaçları düzenli olarak kullanın.",
+            "Sağlıklı bir yaşam tarzı sürdürün, düzenli egzersiz yapın ve dengeli bir diyet benimseyin.",
+            "Belirtilerinizde herhangi bir değişiklik olduğunda derhal doktorunuza başvurun."
+        ]
+    },
+    {
+        "Disease": "Kolesistit",
+        "Doctor": "Gastroenteroloji veya Genel Cerrahi ",
+        "Description": "Kolesistit, safra kesesinin iltihaplanmasıdır ve genellikle safra taşları nedeniyle ortaya çıkar.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği diyeti ve ilaçları düzenli olarak kullanın.",
+            "Yağlı ve baharatlı yiyeceklerden kaçının, sağlıklı bir diyet benimseyin ve yeterince su içmeye özen gösterin.",
+            "Belirtilerinizde herhangi bir değişiklik olduğunda doktorunuza danışın."
+        ]
+    },
+    {
+        "Disease": "Hiyatus Hernisi",
+        "Doctor": "Gastroenteroloji veya Genel Cerrahi ",
+        "Description": "Hiyatus hernisi, mide ve yemek borusu arasındaki açıklığın genişlediği bir durumdur, bu da mide içeriğinin yemek borusuna geri kaçmasına neden olabilir.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği yaşam tarzı değişikliklerini uygulayın.",
+            "Yemeklerden sonra yatmaktan kaçının, yemeklerinizi yavaşça yiyin ve mide asidini artırabilecek maddelerden kaçının.",
+            "Belirtilerinizde herhangi bir değişiklik olduğunda doktorunuza başvurun."
+        ]
+    },
+    {
+        "Disease": "Migren Bozuklukları",
+        "Doctor": "Nöroloji veya Baş Ağrısı ",
+        "Description": "Migren, şiddetli baş ağrılarına neden olan kronik bir sinir sistemi bozukluğudur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği migren ilaçlarını düzenli olarak kullanın.",
+            "Ağrı tetikleyicilerden kaçının, düzenli uyku alışkanlıkları oluşturun ve stresten kaçının.",
+            "Belirtilerinizde herhangi bir değişiklik olduğunda doktorunuza başvurun."
+        ]
+    },
+    {
+        "Disease": "Pansitopeni",
+        "Doctor": "Hematoloji ",
+        "Description": "Pansitopeni, kanda bulunan kırmızı kan hücreleri, beyaz kan hücreleri ve trombosit sayısının düşük olduğu bir durumdur.",
+        "Suggestions": [
+            "Sağlıklı bir beslenme programı benimseyin ve vücudunuzun ihtiyaç duyduğu besinleri alın."
+        ]
+    },
+    {
+        "Disease": "Kolelityaz",
+        "Doctor": "Gastroenteroloji veya Genel Cerrahi ",
+        "Description": "Kolelityaz, safra kesesinde veya safra kanallarında taş oluşumu ile karakterize edilen bir durumdur.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği diyet ve ilaçları düzenli olarak kullanın.",
+            "kilo kontrolüne dikkat edin ve düzenli egzersiz yapın."
+        ]
+    },
+    {
+        "Disease": "Sinüs Taşikardisi",
+        "Doctor": "Kardiyoloji",
+        "Description": "Sinüs taşikardisi, kalp atışlarının normalden daha hızlı olduğu bir durumdur ve genellikle sinüs düğümündeki bir sorundan kaynaklanır.",
+        "Suggestions": [
+            "Kafein ve alkol tüketimini sınırlayın"
+        ]
+    },
+    {
+        "Disease": "İleus",
+        "Doctor": "Genel Cerrahi veya Gastroenteroloji",
+        "Description": "İleus, bağırsakların normal hareketlerinde bir kısıtlama veya durma olduğu bir durumdur.",
+        "Suggestions": [
+            "Dengeli bir diyet benimseyin ve yeterince su içmeye özen gösterin."
+        ]
+    },
+    {
+        "Disease": "Adhezyon",
+        "Doctor": "Genel Cerrahi veya Ortopedi",
+        "Description": "Adhezyonlar, genellikle cerrahi müdahaleler sonrasında dokular arasında oluşan anormal bağlantılardır.",
+        "Suggestions": [
+            "Doktorunuzun önerdiği fizik tedavi veya cerrahi müdahaleleri düzenli olarak uygulayın.",
+            "Cerrahi operasyon sonrası rehabilitasyon programlarına katılın."
+        ]
+    },
+    {
+        "Disease": "Sanrı",
+        "Doctor": "Psikiyatri veya Ruh Sağlığı",
+        "Description": "Sanrılar, gerçek dışı inançlar veya algılama bozukluklarıdır ve genellikle bir psikiyatrik durumun belirtisi olabilir.",
+        "Suggestions": [
+            "Psikoterapi veya terapi seanslarına katılın.",
+            "Sosyal çeverinizi güçlendirin"
+        ]
+    },
+    {
+        "Disease": "Duygu Değişimi",
+        "Doctor": "Psikiyatri veya Ruh Sağlığı",
+        "Description": "Duygu değişiklikleri, duygu durumu bozukluklarının bir belirtisi olabilir ve uzmanlık gerektiren bir durumdur.",
+        "Suggestions": [
+            "terapi seanslarına katılın.",
+            "düzenli egzersiz yapın ve yeterince uyku alın."
+        ]
+    },
+    {
+        "Disease": "Dekübit Ülser",
+        "Doctor": "Dermatoloji veya Plastik Cerrahi",
+        "Description": "Dekübit ülser, uzun süreli basınca maruz kalan bölgelerde cilt hasarı ve ülserasyonu olarak ortaya çıkan bir durumdur.",
+        "Suggestions": [
+            "cilt bakımı uygulayın.",
+            "yeterince sıvı alımına özen gösterin."
+        ]
+    }
+]
